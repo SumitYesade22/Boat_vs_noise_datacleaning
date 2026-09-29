@@ -1,0 +1,519 @@
+brand,category,sale_price,mrp,discount_percent,num_variants,edition_type,model_series,year,month,color_count,driver_size_mm,product_id,playback_per_charge,bluetooth,anc_db,has_anc,has_enc,playtime,ip_rating,latency,fast_charge,connectivity,gaming_mode,rating,battery_capacity,base_model
+boAt,True Wireless Earbuds,1599.0,2990.0,46.52,1.0,Franchise,Airdopes,2021.0,12.0,1.0,13.0,6631148617826.0,3.0,5.0,,False,False,60.0,IPX4,,True,,False,4.9,650.0,airdopes 131
+boAt,Headphones,1799.0,3990.0,54.91,1.0,Franchise,Rockerz,2021.0,12.0,1.0,40.0,6632402813026.0,15.0,4.2,,False,False,15.0,,,False,Dual,False,4.9,300.0,rockerz 450
+boAt,Headphones,1799.0,3990.0,54.91,1.0,Franchise,Rockerz,2021.0,12.0,1.0,40.0,6632403140706.0,15.0,4.2,,False,False,15.0,,,False,Dual,False,4.7,300.0,rockerz 450
+boAt,True Wireless Earbuds,1099.0,3490.0,68.51,3.0,Standard,Airdopes,2022.0,11.0,3.0,10.0,6812126052450.0,7.0,5.3,,False,True,50.0,IPX4,50.0,True,,True,4.7,320.0,airdopes 100
+boAt,True Wireless Earbuds,1199.0,2990.0,59.9,2.0,Standard,Airdopes,2021.0,7.0,2.0,13.0,6574089338978.0,3.0,5.0,,False,False,15.0,IPX4,,False,,False,4.9,650.0,airdopes 101
+boAt,True Wireless Earbuds,899.0,3990.0,77.47,3.0,Standard,Airdopes,2025.0,7.0,3.0,13.0,7384208932962.0,7.0,5.3,,False,True,35.0,IPX4,500.0,True,,True,3.9,300.0,airdopes 101v2
+boAt,True Wireless Earbuds,1899.0,4990.0,61.94,2.0,Standard,Airdopes,2024.0,12.0,2.0,13.0,7278075347042.0,10.0,5.4,,False,False,50.0,IPX4,50.0,True,,False,4.8,400.0,airdopes 111v2
+boAt,True Wireless Earbuds,1899.0,2990.0,36.49,4.0,Standard,Airdopes,2022.0,4.0,4.0,13.0,6699646156898.0,24.0,5.2,,False,True,24.0,IPX4,50.0,True,,True,4.9,300.0,airdopes 115
+boAt,True Wireless Earbuds,1299.0,4990.0,73.97,3.0,Standard,Airdopes,2024.0,5.0,3.0,10.0,7119491891298.0,8.0,5.3,,False,True,40.0,IPX4,65.0,True,,True,4.5,400.0,airdopes 120
+boAt,True Wireless Earbuds,1499.0,4990.0,69.96,2.0,Standard,Airdopes,2024.0,6.0,2.0,10.0,7171078881378.0,8.0,5.3,,False,True,100.0,IPX5,50.0,True,,True,4.3,400.0,airdopes 121 pro plus
+boAt,True Wireless Earbuds,1099.0,2999.0,63.35,3.0,Standard,Airdopes,2020.0,11.0,3.0,8.0,4517297586274.0,5.0,5.0,,False,False,14.0,IPX4,,False,,False,4.8,380.0,airdopes 121 v2
+boAt,True Wireless Earbuds,1599.0,4990.0,67.96,3.0,Standard,Airdopes,2023.0,12.0,3.0,10.0,6942110384226.0,10.0,5.3,,False,True,50.0,IPX4,50.0,True,,True,4.8,350.0,airdopes 121v2 plus
+boAt,True Wireless Earbuds,699.0,4490.0,84.43,3.0,Standard,Airdopes,2023.0,6.0,3.0,13.0,6874026999906.0,10.0,5.3,,False,True,50.0,IPX5,50.0,True,,True,4.9,320.0,airdopes 125
+boAt,True Wireless Earbuds,999.0,2990.0,66.59,14.0,Standard,Airdopes,2020.0,8.0,14.0,13.0,4460669370466.0,3.0,5.0,,False,False,60.0,IPX4,,False,,False,4.8,650.0,airdopes 131
+boAt,True Wireless Earbuds,1099.0,2990.0,63.24,1.0,Franchise,Airdopes,2022.0,6.0,1.0,13.0,6723126165602.0,3.0,5.0,,False,False,12.0,IPX4,,False,,False,4.9,650.0,airdopes 131
+boAt,True Wireless Earbuds,1099.0,2990.0,63.24,3.0,Franchise,Airdopes,2022.0,6.0,3.0,13.0,6723078717538.0,3.0,5.0,,False,False,12.0,IPX4,,False,,False,5.0,650.0,airdopes 131
+boAt,True Wireless Earbuds,1399.0,6990.0,79.99,4.0,Standard,Airdopes,2024.0,6.0,4.0,13.0,7173222039650.0,10.0,5.3,32.0,True,True,60.0,IPX5,65.0,True,,False,4.6,400.0,airdopes 131 elite anc
+boAt,True Wireless Earbuds,899.0,2990.0,69.93,3.0,Standard,Airdopes,2025.0,8.0,3.0,13.0,7402532765794.0,7.0,5.4,,False,True,70.0,IPX4,45.0,True,,True,4.5,650.0,airdopes 131 gen 2
+boAt,True Wireless Earbuds,1099.0,2990.0,63.24,1.0,Sports,Airdopes,2021.0,4.0,1.0,13.0,6548885274722.0,3.0,5.0,,False,False,3.0,IPX7,,False,,False,5.0,650.0,airdopes 131
+boAt,True Wireless Earbuds,999.0,5490.0,81.8,3.0,Standard,Airdopes,2024.0,9.0,3.0,10.0,7236331176034.0,6.0,5.3,,False,True,40.0,IPX4,65.0,True,,True,4.2,400.0,airdopes 131 pro buds
+boAt,True Wireless Earbuds,1299.0,2990.0,56.56,1.0,Sports,Airdopes,2021.0,4.0,1.0,13.0,6548989378658.0,3.0,5.0,,False,False,12.0,IPX7,,False,,False,5.0,650.0,airdopes 131
+boAt,True Wireless Earbuds,1099.0,2990.0,63.24,1.0,Franchise,Airdopes,2022.0,6.0,1.0,13.0,6723124723810.0,3.0,5.0,,False,False,12.0,IPX4,,False,,False,5.0,650.0,airdopes 131
+boAt,True Wireless Earbuds,1299.0,2990.0,56.56,1.0,Franchise,Airdopes,2022.0,6.0,1.0,13.0,6723126329442.0,3.0,5.0,,False,False,60.0,IPX4,,False,,False,5.0,650.0,airdopes 131
+boAt,True Wireless Earbuds,1299.0,2990.0,56.56,3.0,Franchise,Airdopes,2023.0,3.0,3.0,13.0,6851891953762.0,3.0,5.0,,False,False,12.0,IPX4,,False,,False,5.0,650.0,airdopes 138
+boAt,True Wireless Earbuds,1668.0,2990.0,44.21,6.0,Standard,Airdopes,2023.0,3.0,6.0,11.0,6851892183138.0,9.0,5.3,,False,True,45.0,IPX5,65.0,True,,True,4.8,400.0,airdopes 138 pro
+boAt,True Wireless Earbuds,799.0,4490.0,82.2,10.0,Standard,Airdopes,2022.0,2.0,10.0,8.0,6577003495522.0,7.0,5.1,,False,True,42.0,IPX4,80.0,True,Dual,True,4.8,600.0,airdopes 141
+boAt,True Wireless Earbuds,1499.0,5990.0,74.97,3.0,Standard,Airdopes,2025.0,4.0,3.0,10.0,6886798098530.0,42.0,5.3,32.0,True,True,42.0,IPX5,50.0,True,,True,4.6,400.0,airdopes 141 anc
+boAt,True Wireless Earbuds,1299.0,5990.0,78.31,3.0,Standard,Airdopes,2025.0,6.0,3.0,10.0,7347751977058.0,10.0,5.3,35.0,True,True,42.0,IPX4,50.0,True,,True,4.8,400.0,airdopes 141 elite anc
+boAt,True Wireless Earbuds,799.0,3990.0,79.97,5.0,Standard,Airdopes,2025.0,6.0,5.0,10.0,7364747264098.0,6.0,5.4,,False,True,48.0,IPX4,65.0,True,,True,4.5,450.0,airdopes 141 gen2
+boAt,True Wireless Earbuds,1400.0,3990.0,64.91,4.0,Standard,Airdopes,2023.0,7.0,4.0,10.0,6882656845922.0,50.0,5.3,,False,True,50.0,IPX5,65.0,True,,True,4.5,480.0,airdopes 141 neo
+boAt,True Wireless Earbuds,799.0,4990.0,83.99,4.0,Standard,Airdopes,2024.0,12.0,4.0,13.0,7269609472098.0,6.0,5.3,,False,True,60.0,IPX5,65.0,True,,False,5.0,650.0,airdopes 141 pro buds
+boAt,True Wireless Earbuds,1799.0,5490.0,67.23,4.0,Standard,Airdopes,2024.0,3.0,4.0,10.0,7013559500898.0,6.0,5.3,,False,True,40.0,IPX4,65.0,True,,True,4.9,400.0,airdopes 155
+boAt,True Wireless Earbuds,999.0,2490.0,59.88,10.0,Standard,Airdopes,2022.0,9.0,10.0,10.0,6637550010466.0,5.5,5.1,,False,False,40.0,IPX5,,True,,False,4.8,300.0,airdopes 161
+boAt,True Wireless Earbuds,1299.0,6999.0,81.44,3.0,Standard,Airdopes,2024.0,7.0,3.0,10.0,7196109340770.0,5.0,5.3,32.0,True,True,,IPX5,50.0,True,,True,4.7,400.0,airdopes 161 anc elite
+boAt,True Wireless Earbuds,1099.0,5999.0,81.68,3.0,Standard,Airdopes,2023.0,9.0,3.0,10.0,6896997466210.0,5.0,5.3,32.0,True,True,50.0,IPX5,50.0,True,,False,4.8,500.0,airdopes 161 anc
+boAt,True Wireless Earbuds,1199.0,2490.0,51.85,1.0,Franchise,Airdopes,2023.0,9.0,1.0,13.0,6903656513634.0,8.0,5.1,,False,False,40.0,IPX5,,True,,False,4.8,300.0,airdopes 161
+boAt,True Wireless Earbuds,999.0,4490.0,77.75,3.0,Standard,Airdopes,2024.0,1.0,3.0,10.0,6971269087330.0,6.0,5.3,,False,True,50.0,IPX5,,True,Dual,False,4.8,380.0,airdopes 161 pro buds
+boAt,True Wireless Earbuds,1169.0,4990.0,76.57,3.0,Standard,Airdopes,2023.0,7.0,3.0,10.0,6884756291682.0,5.0,5.3,,False,True,50.0,IPX5,40.0,True,Dual,True,4.9,380.0,airdopes 161 pro
+boAt,True Wireless Earbuds,899.0,2490.0,63.9,1.0,Franchise,Airdopes,2023.0,9.0,1.0,13.0,6903647633506.0,40.0,5.1,,False,False,40.0,IPX5,,True,,False,4.8,300.0,airdopes 161
+boAt,True Wireless Earbuds,1399.0,5999.0,76.68,4.0,Standard,Airdopes,2020.0,7.0,4.0,6.0,4379249213538.0,3.0,5.0,,False,False,13.0,IPX4,,False,,False,4.8,380.0,airdopes 171
+boAt,True Wireless Earbuds,999.0,3490.0,71.38,3.0,Standard,Airdopes,2022.0,9.0,3.0,11.0,6777399541858.0,10.0,5.2,,False,True,42.0,IPX4,65.0,True,,True,5.0,300.0,airdopes 172
+boAt,True Wireless Earbuds,2099.0,5999.0,65.01,3.0,Standard,Airdopes,2020.0,9.0,3.0,6.0,4502756950114.0,3.0,5.0,,False,False,10.0,IPX4,,False,,False,5.0,380.0,airdopes 173
+boAt,True Wireless Earbuds,1499.0,4990.0,69.96,4.0,Standard,Airdopes,2024.0,6.0,4.0,10.0,7164261957730.0,8.0,5.3,,False,True,100.0,IPX5,50.0,True,,True,4.5,400.0,airdopes 181 pro
+boAt,True Wireless Earbuds,1699.0,4990.0,65.95,4.0,Super Saver,Airdopes,2025.0,5.0,4.0,10.0,7347778814050.0,8.0,5.3,,False,True,100.0,IPX4,,True,,True,4.7,400.0,airdopes 181 pro
+boAt,True Wireless Earbuds,1299.0,3499.0,62.88,2.0,Standard,Airdopes,2022.0,9.0,2.0,10.0,6780397125730.0,10.0,5.3,,False,True,40.0,IPX4,50.0,True,,True,5.0,400.0,airdopes 190
+boAt,True Wireless Earbuds,1599.0,5490.0,70.87,3.0,Standard,Airdopes,2023.0,10.0,3.0,13.0,6906633945186.0,8.0,5.3,,False,True,100.0,IPX5,50.0,True,,True,4.7,650.0,airdopes 200 plus
+boAt,True Wireless Earbuds,999.0,3999.0,75.02,4.0,Standard,Airdopes,2022.0,8.0,4.0,10.0,3948287590498.0,3.0,5.0,,False,False,15.0,IPX4,,False,,False,4.8,470.0,airdopes 201
+boAt,True Wireless Earbuds,2599.0,4990.0,47.92,3.0,Standard,Airdopes,2023.0,8.0,3.0,13.0,6888696447074.0,8.0,5.3,,False,True,50.0,IPX5,50.0,True,,True,4.5,320.0,airdopes 207
+boAt,True Wireless Earbuds,2048.0,3290.0,37.75,3.0,Standard,Airdopes,2025.0,6.0,3.0,10.0,7373814661218.0,8.0,5.4,,False,True,50.0,IPX4,45.0,True,,True,4.8,300.0,airdopes 213
+boAt,True Wireless Earbuds,999.0,3990.0,74.96,3.0,Standard,Airdopes,2025.0,7.0,3.0,13.0,7392697155682.0,8.0,5.4,,False,True,40.0,IPX4,45.0,True,,True,4.6,400.0,airdopes 219
+boAt,True Wireless Earbuds,1399.0,6999.0,80.01,3.0,Standard,Airdopes,2024.0,12.0,3.0,13.0,7197412786274.0,7.0,5.3,32.0,True,True,60.0,IPX5,65.0,True,,False,4.5,500.0,airdopes 280 anc
+boAt,True Wireless Earbuds,2299.0,4999.0,54.01,2.0,Standard,Airdopes,2022.0,8.0,2.0,6.0,4358150029410.0,5.0,5.0,,False,False,14.0,IPX5,,False,,False,4.7,420.0,airdopes 281
+boAt,True Wireless Earbuds,2099.0,6990.0,69.97,6.0,Standard,Airdopes,2021.0,6.0,6.0,6.0,6565846384738.0,5.0,5.1,,False,True,32.0,IPX5,,True,,False,4.9,420.0,airdopes 281 pro
+boAt,True Wireless Earbuds,1299.0,6490.0,79.98,2.0,Standard,Airdopes,2024.0,5.0,2.0,10.0,7140350361698.0,4.0,5.3,,False,True,50.0,IPX5,,True,Dual,False,4.8,600.0,airdopes 300
+boAt,True Wireless Earbuds,1799.0,4990.0,63.95,4.0,Standard,Airdopes,2026.0,1.0,4.0,10.0,7238128140386.0,3.5,5.3,,False,True,75.0,IPX5,50.0,True,,True,4.7,470.0,airdopes 301
+boAt,True Wireless Earbuds,899.0,4990.0,81.98,4.0,Standard,Airdopes,2024.0,5.0,4.0,10.0,7140349411426.0,6.0,5.3,,True,True,50.0,IPX4,50.0,True,,True,4.6,470.0,airdopes 311 pro
+boAt,True Wireless Earbuds,1299.0,3990.0,67.44,3.0,Standard,Airdopes,2025.0,8.0,3.0,13.0,7401144615010.0,7.0,5.4,,False,True,75.0,IPX4,45.0,True,,True,4.5,650.0,airdopes 313
+boAt,True Wireless Earbuds,2499.0,4990.0,49.92,9.0,Standard,Airdopes,2020.0,1.0,9.0,7.0,4350059806818.0,4.0,5.0,,False,False,20.0,IPX5,,True,,False,4.8,500.0,airdopes 381
+boAt,True Wireless Earbuds,2999.0,4990.0,39.9,2.0,Standard,Airdopes,2022.0,9.0,2.0,7.0,6777057640546.0,4.0,5.0,,False,False,20.0,IPX5,,True,,False,5.0,500.0,airdopes 381 mki
+boAt,True Wireless Earbuds,2499.0,4990.0,49.92,2.0,Standard,Airdopes,2022.0,7.0,2.0,7.0,4509428187234.0,4.0,5.0,,False,False,20.0,IPX5,,False,,False,4.7,500.0,airdopes 383
+boAt,True Wireless Earbuds,999.0,4990.0,79.98,3.0,Standard,Airdopes,2021.0,7.0,3.0,6.0,6577117790306.0,5.0,5.0,,False,False,23.0,IPX4,,True,,False,5.0,400.0,airdopes 391
+boAt,True Wireless Earbuds,3999.0,4990.0,19.86,3.0,Standard,Airdopes,2022.0,9.0,3.0,6.0,6780058042466.0,7.0,5.2,32.0,True,True,30.0,IPX5,65.0,True,,True,4.8,400.0,airdopes 393 anc
+boAt,True Wireless Earbuds,1499.0,5990.0,74.97,3.0,Standard,Airdopes,2021.0,10.0,3.0,10.0,4386070495330.0,4.0,5.2,,False,True,30.0,IPX4,,True,,False,4.8,450.0,airdopes 402
+boAt,True Wireless Earbuds,1999.0,4990.0,59.94,3.0,Standard,Airdopes,2022.0,3.0,3.0,10.0,6671388737634.0,5.5,5.2,25.0,True,True,22.0,IPX4,,True,,False,4.8,320.0,airdopes 411 anc
+boAt,True Wireless Earbuds,1899.0,4990.0,61.94,2.0,Standard,Airdopes,2023.0,3.0,2.0,10.0,6852128505954.0,5.5,5.2,25.0,True,True,22.0,IPX4,,True,,False,5.0,500.0,airdopes 418 anc
+boAt,True Wireless Earbuds,999.0,5999.0,83.35,3.0,Standard,Airdopes,2022.0,8.0,3.0,7.0,4360497102946.0,5.0,5.0,,False,False,10.0,IPX4,,False,,False,4.8,500.0,airdopes 431
+boAt,True Wireless Earbuds,999.0,5999.0,83.35,7.0,Standard,Airdopes,2020.0,2.0,7.0,6.0,4356614652002.0,5.0,5.0,,False,False,20.0,IPX7,,False,,False,4.9,500.0,airdopes 441
+boAt,True Wireless Earbuds,2499.0,5999.0,58.34,1.0,Sports,Airdopes,2021.0,4.0,1.0,6.0,6548859715682.0,5.0,5.0,,False,False,20.0,IPX7,,False,,False,5.0,500.0,airdopes 441
+boAt,True Wireless Earbuds,999.0,5999.0,83.35,4.0,Standard,Airdopes,2020.0,8.0,4.0,6.0,4478013440098.0,5.0,5.0,,False,False,150.0,IPX7,,False,,False,4.8,2600.0,airdopes 441 pro
+boAt,True Wireless Earbuds,3199.0,6990.0,54.23,1.0,Special,Airdopes,2022.0,6.0,1.0,6.0,6723121741922.0,5.0,5.0,,False,False,20.0,IPX7,,False,,False,5.0,2600.0,airdopes 441 pro
+boAt,True Wireless Earbuds,2699.0,5999.0,55.01,2.0,Standard,Airdopes,2022.0,7.0,2.0,6.0,4494553579618.0,5.0,5.0,,False,False,20.0,IPX7,,False,,False,5.0,500.0,airdopes 443
+boAt,True Wireless Earbuds,999.0,5999.0,83.35,4.0,Standard,Airdopes,2022.0,1.0,4.0,10.0,2159622488162.0,5.0,5.0,,False,True,25.0,IPX4,,False,,False,4.8,600.0,airdopes 451v2
+boAt,True Wireless Earbuds,1699.0,4990.0,65.95,4.0,Standard,Airdopes,2021.0,9.0,4.0,6.0,6582974120034.0,20.0,5.2,,False,True,20.0,IPX4,,True,,True,5.0,380.0,airdopes 452
+boAt,True Wireless Earbuds,3299.0,4990.0,33.89,4.0,Standard,Airdopes,2023.0,3.0,4.0,11.0,6849828520034.0,6.0,5.1,,False,True,30.0,IPX5,65.0,True,,True,4.8,380.0,airdopes 458
+boAt,True Wireless Earbuds,2999.0,7990.0,62.47,2.0,Standard,Airdopes,2022.0,4.0,2.0,6.0,4498564546658.0,6.0,5.0,,False,False,46.0,IPX5,,True,,True,4.6,600.0,airdopes 461
+boAt,True Wireless Earbuds,999.0,6990.0,85.71,2.0,Standard,Airdopes,2020.0,2.0,2.0,6.0,4356622680162.0,5.0,5.0,,False,False,50.0,IP67,,False,,False,5.0,1800.0,airdopes 491
+boAt,True Wireless Earbuds,999.0,9999.0,90.01,3.0,Standard,Airdopes,2022.0,4.0,3.0,8.0,6690430812258.0,5.5,5.2,35.0,True,True,28.0,IPX4,,True,,True,5.0,500.0,airdopes 500 anc
+boAt,True Wireless Earbuds,3969.0,9990.0,60.27,5.0,Standard,Airdopes,2021.0,7.0,5.0,8.0,6576435888226.0,5.0,5.2,30.0,True,True,28.0,IPX4,,True,,True,5.0,500.0,airdopes 501 anc
+boAt,True Wireless Earbuds,2999.0,6999.0,57.15,2.0,Standard,Airdopes,2022.0,8.0,2.0,6.0,4379279884386.0,6.0,5.0,,False,False,30.0,IPX4,,False,,False,4.6,500.0,airdopes 511 v2
+boAt,True Wireless Earbuds,4999.0,9990.0,49.96,2.0,Standard,Airdopes,2022.0,1.0,2.0,10.0,4356618682466.0,5.5,5.0,33.0,True,True,28.0,IPX4,,True,,False,4.2,500.0,airdopes 601 anc
+boAt,True Wireless Earbuds,2999.0,7990.0,62.47,2.0,Standard,Airdopes,2021.0,3.0,2.0,6.0,6542546042978.0,5.0,5.0,,False,False,150.0,IPX7,,True,,False,4.9,2600.0,airdopes 621
+boAt,True Wireless Earbuds,2999.0,6990.0,57.1,2.0,Standard,Airdopes,2022.0,5.0,2.0,6.0,6551249191010.0,6.0,5.0,,False,False,30.0,IPX5,,False,,True,4.9,500.0,airdopes 641
+boAt,True Wireless Earbuds,1948.0,3990.0,51.18,6.0,Standard,Airdopes,2023.0,12.0,6.0,6.0,6921180938338.0,7.0,5.3,,False,True,40.0,IPX4,,True,,True,4.9,300.0,airdopes 71
+boAt,True Wireless Earbuds,4999.0,11990.0,58.31,1.0,Standard,Airdopes,2022.0,8.0,1.0,6.0,4509160374370.0,10.0,5.0,,False,False,50.0,IPX5,,False,,True,5.0,470.0,airdopes 711
+boAt,True Wireless Earbuds,899.0,7490.0,88.0,4.0,Standard,Airdopes,2024.0,11.0,4.0,10.0,7252291289186.0,6.0,5.3,,False,True,40.0,IPX5,50.0,False,Dual,False,4.7,400.0,airdopes 800 hi def
+boAt,True Wireless Earbuds,899.0,3990.0,77.47,3.0,Standard,Airdopes,2024.0,1.0,3.0,10.0,6976435028066.0,5.0,5.3,,False,True,45.0,IPX4,50.0,True,,True,4.9,300.0,airdopes 91
+boAt,True Wireless Earbuds,899.0,3990.0,77.47,2.0,Standard,Airdopes,2024.0,12.0,2.0,10.0,7276270321762.0,5.0,5.3,,False,True,45.0,IPX4,,True,,True,5.0,380.0,airdopes 91 prime
+boAt,True Wireless Earbuds,1199.0,3490.0,65.64,3.0,Standard,Airdopes,2023.0,9.0,3.0,13.0,6899422101602.0,5.0,5.3,,False,True,35.0,IPX5,,True,,True,4.6,300.0,airdopes ace
+boAt,True Wireless Earbuds,1999.0,5990.0,66.63,3.0,Standard,Airdopes,2025.0,10.0,3.0,13.0,7424276267106.0,5.0,5.4,,False,True,45.0,IPX4,50.0,True,,True,4.5,320.0,airdopes ace gen 2
+boAt,True Wireless Earbuds,999.0,3490.0,71.38,1.0,Franchise,Airdopes,2024.0,7.0,1.0,13.0,7198558814306.0,5.0,5.3,,False,True,35.0,IPX5,50.0,True,,True,4.7,300.0,airdopes alpha
+boAt,True Wireless Earbuds,1499.0,3490.0,57.05,7.0,Standard,Airdopes,2025.0,2.0,7.0,13.0,6869654208610.0,5.5,5.3,,False,True,35.0,IPX5,50.0,True,,True,4.8,300.0,airdopes alpha
+boAt,True Wireless Earbuds,1499.0,3490.0,57.05,3.0,Standard,Airdopes,2023.0,4.0,3.0,13.0,6815427068002.0,5.0,5.3,,False,True,50.0,IPX5,50.0,True,,False,4.9,300.0,airdopes atom 81
+boAt,True Wireless Earbuds,1499.0,3990.0,62.43,3.0,Standard,Airdopes,2024.0,6.0,3.0,13.0,7165476307042.0,5.0,5.3,,False,True,100.0,IPX5,,True,,False,4.6,500.0,airdopes atom 81 pro
+boAt,True Wireless Earbuds,1949.0,3990.0,51.15,1.0,Standard,Airdopes,2026.0,1.0,1.0,13.0,7485159964770.0,5.0,5.4,,False,True,35.0,IPX4,50.0,True,,True,3.0,300.0,airdopes beat
+boAt,True Wireless Earbuds,2299.0,5990.0,61.62,3.0,Standard,Airdopes,2023.0,9.0,3.0,10.0,6905418448994.0,6.0,5.3,32.0,True,True,42.0,IPX5,60.0,True,,True,4.7,350.0,airdopes bliss
+boAt,True Wireless Earbuds,1239.0,4990.0,75.17,2.0,Standard,Airdopes,2023.0,7.0,2.0,10.0,6882784575586.0,50.0,5.3,,False,True,50.0,IPX4,40.0,True,,True,4.8,380.0,airdopes crude
+boAt,True Wireless Earbuds,1699.0,3490.0,51.32,2.0,Standard,Airdopes,2024.0,8.0,2.0,6.0,7216283549794.0,5.0,5.4,,False,True,40.0,IPX4,,True,,True,4.9,400.0,airdopes drift
+boAt,True Wireless Earbuds,1499.0,6990.0,78.56,2.0,Standard,Airdopes,2023.0,9.0,2.0,10.0,6899554025570.0,12.0,5.2,32.0,True,False,60.0,IPX5,60.0,True,,True,4.9,500.0,airdopes flex 454
+boAt,True Wireless Earbuds,1699.0,4990.0,65.95,3.0,Standard,Airdopes,2023.0,5.0,3.0,10.0,6866949144674.0,50.0,5.3,,False,True,50.0,IPX4,40.0,True,,True,4.5,380.0,airdopes fuel premium
+boAt,True Wireless Earbuds,1999.0,3999.0,50.01,3.0,Standard,Airdopes,2023.0,5.0,3.0,13.0,6872325488738.0,6.0,5.3,,False,True,54.0,IPX5,65.0,True,,True,4.8,400.0,airdopes genesis
+boAt,True Wireless Earbuds,1699.0,5490.0,69.05,3.0,Standard,Airdopes,2023.0,7.0,3.0,13.0,6880944783458.0,10.0,5.3,,False,True,100.0,IPX5,50.0,True,,True,4.5,650.0,airdopes hype
+boAt,True Wireless Earbuds,2299.0,3499.0,34.3,2.0,Standard,Immortal,2023.0,7.0,2.0,10.0,6883993059426.0,5.0,5.3,,False,True,40.0,IPX4,40.0,True,,True,5.0,400.0,airdopes immortal 141
+boAt,True Wireless Earbuds,1099.0,3490.0,68.51,3.0,Standard,Airdopes,2026.0,6.0,3.0,13.0,7725054263394.0,8.5,5.3,,False,True,35.0,IPX5,,True,,True,4.7,320.0,airdopes joy v2
+boAt,True Wireless Earbuds,1499.0,4999.0,70.01,3.0,Standard,Airdopes,2023.0,8.0,3.0,13.0,6894108606562.0,8.5,5.3,,False,True,35.0,IPX5,,True,,True,4.8,300.0,airdopes joy
+boAt,True Wireless Earbuds,1149.0,4990.0,76.97,3.0,Standard,Airdopes,2023.0,6.0,3.0,13.0,6878542364770.0,75.0,5.3,,False,True,75.0,IPX5,50.0,True,,True,5.0,500.0,airdopes kick
+boAt,True Wireless Earbuds,1799.0,7990.0,77.48,3.0,Standard,Airdopes,2024.0,11.0,3.0,12.0,7264791658594.0,6.0,5.3,,False,True,50.0,IPX4,40.0,True,,True,4.1,480.0,airdopes loop
+boAt,True Wireless Earbuds,1499.0,5490.0,72.7,3.0,Standard,Airdopes,2023.0,7.0,3.0,13.0,6882662842466.0,10.0,5.3,,False,True,100.0,IPX5,50.0,True,,True,5.0,650.0,airdopes max
+boAt,True Wireless Earbuds,2574.0,4990.0,48.42,2.0,Standard,Airdopes,2025.0,5.0,2.0,10.0,7349195178082.0,10.0,5.3,,False,True,100.0,IPX5,,True,,True,3.8,400.0,airdopes plus 318
+boAt,True Wireless Earbuds,1399.0,4490.0,68.84,3.0,Standard,Airdopes,2025.0,7.0,3.0,11.0,7393710375010.0,8.0,5.4,,False,True,50.0,IPX5,60.0,True,,True,4.5,500.0,airdopes prime 412
+boAt,True Wireless Earbuds,1299.0,5990.0,78.31,3.0,Standard,Airdopes,2025.0,8.0,3.0,12.0,7403990646882.0,8.0,5.4,,False,True,50.0,IPX5,,True,Dual,False,5.0,500.0,airdopes prime 511
+boAt,True Wireless Earbuds,1399.0,5990.0,76.64,2.0,Standard,Airdopes,2025.0,9.0,2.0,13.0,7418511884386.0,5.0,5.2,32.0,True,False,65.0,IPX4,,True,Dual,False,4.5,500.0,airdopes prime 513 anc
+boAt,True Wireless Earbuds,1799.0,7990.0,77.48,2.0,Standard,Airdopes,2025.0,11.0,2.0,12.0,7445488697442.0,5.0,6.0,48.0,True,False,50.0,IPX5,,True,Dual,False,3.5,400.0,airdopes prime 700 anc
+boAt,True Wireless Earbuds,2199.0,7990.0,72.48,6.0,Standard,Airdopes,2025.0,6.0,6.0,10.0,7366252232802.0,5.0,5.3,46.0,True,False,50.0,IPX5,,True,,False,4.7,500.0,airdopes prime 701 anc
+boAt,True Wireless Earbuds,1799.0,4999.0,64.01,3.0,Standard,Airdopes,2026.0,6.0,3.0,12.0,7727136145506.0,8.0,6.0,,False,False,52.0,IPX4,,True,,False,4.9,500.0,airdopes proclip
+boAt,True Wireless Earbuds,1899.0,5990.0,68.3,2.0,Standard,Airdopes,2023.0,6.0,2.0,11.0,6874928873570.0,10.0,5.3,,False,True,60.0,IPX4,,True,,False,4.8,490.0,airdopes sonik
+boAt,True Wireless Earbuds,1299.0,5990.0,78.31,6.0,Standard,Airdopes,2024.0,3.0,6.0,10.0,7019905089634.0,10.0,5.2,,False,True,50.0,IPX4,,True,,False,4.8,400.0,airdopes supreme
+boAt,True Wireless Earbuds,1499.0,4990.0,69.96,4.0,Standard,Airdopes,2024.0,3.0,4.0,10.0,7021108822114.0,8.0,5.3,,False,True,50.0,IPX5,,True,,True,4.9,500.0,airdopes ultra plus
+boAt,True Wireless Earbuds,1849.0,6990.0,73.55,2.0,Standard,Airdopes,2025.0,1.0,2.0,10.0,7283853295714.0,10.0,5.3,,False,False,100.0,IPX4,,True,Dual,False,4.6,500.0,airdopes ultra pro
+boAt,True Wireless Earbuds,1799.0,5999.0,70.01,2.0,Standard,Airdopes,2023.0,11.0,2.0,10.0,6926679539810.0,6.0,5.3,32.0,True,True,,IPX4,,True,,True,4.8,500.0,airdopes unity anc
+boAt,True Wireless Earbuds,1699.0,3490.0,51.32,3.0,Standard,Airdopes,2023.0,6.0,3.0,13.0,6878160945250.0,10.0,5.3,,False,True,75.0,IPX5,50.0,True,,True,4.9,300.0,airdopes zing
+boAt,Wired Earphones,349.0,999.0,65.07,7.0,Standard,Bassheads,2019.0,9.0,7.0,10.0,2162717327458.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.9,-1.0,bassheads 100
+boAt,Wired Earphones,699.0,1990.0,64.87,4.0,Standard,Bassheads,2024.0,8.0,4.0,10.0,7224017846370.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 100 c
+boAt,Wired Earphones,399.0,1499.0,73.38,1.0,Sports,Bassheads,2020.0,9.0,1.0,10.0,4502286893154.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,5.0,-1.0,bassheads 100
+boAt,Wired Earphones,599.0,1290.0,53.57,6.0,Standard,Bassheads,2020.0,1.0,6.0,8.0,2221298122850.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 102
+boAt,Wired Earphones,399.0,1290.0,69.07,6.0,Standard,Bassheads,2019.0,12.0,6.0,10.0,2222485766242.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,400.0,bassheads 103
+boAt,Wired Earphones,299.0,999.0,70.07,5.0,Standard,Bassheads,2021.0,6.0,5.0,10.0,6564179869794.0,-1.0,-1.0,,False,False,-1.0,IPX5,0.0,False,Single,False,4.7,-1.0,bassheads 104
+boAt,Wired Earphones,849.0,999.0,15.02,5.0,Standard,Bassheads,2021.0,6.0,5.0,13.0,6564184326242.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.9,400.0,bassheads 105
+boAt,Wired Earphones,1048.0,999.0,-4.9,4.0,Standard,Bassheads,2022.0,7.0,4.0,10.0,4335224193122.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,5.0,-1.0,bassheads 110
+boAt,Wired Earphones,499.0,1290.0,61.32,1.0,Standard,Bassheads,2019.0,12.0,1.0,10.0,2222529020002.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.9,-1.0,bassheads 122
+boAt,Wired Earphones,999.0,2999.0,66.69,1.0,Standard,Bassheads,2024.0,7.0,1.0,13.0,7187919044706.0,-1.0,-1.0,25.0,True,False,-1.0,IPX5,0.0,False,Single,False,4.9,-1.0,bassheads 122 anc
+boAt,Wired Earphones,499.0,1290.0,61.32,1.0,Standard,Bassheads,2022.0,7.0,1.0,10.0,4402695274594.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,5.0,-1.0,bassheads 132
+boAt,Wired Earphones,499.0,1290.0,61.32,5.0,Standard,Bassheads,2019.0,9.0,5.0,10.0,2162675974242.0,-1.0,-1.0,,False,False,,IPX4,0.0,False,Single,False,4.8,-1.0,bassheads 152
+boAt,Wired Earphones,549.0,1290.0,57.44,1.0,Sports,Bassheads,2022.0,8.0,1.0,10.0,4456040202338.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 152
+boAt,Wired Earphones,399.0,1290.0,69.07,3.0,Standard,Bassheads,2020.0,4.0,3.0,10.0,2162688229474.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.9,-1.0,bassheads 162
+boAt,Wired Earphones,349.0,990.0,64.75,5.0,Standard,Bassheads,2024.0,12.0,5.0,10.0,7260052947042.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,4.6,-1.0,bassheads 162 v2
+boAt,Wired Earphones,399.0,1299.0,69.28,3.0,Standard,Bassheads,2020.0,5.0,3.0,10.0,2162691473506.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 172
+boAt,Wired Earphones,499.0,1299.0,61.59,1.0,Sports,Bassheads,2021.0,4.0,1.0,10.0,6548869939298.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,5.0,-1.0,bassheads 172
+boAt,Wired Earphones,499.0,1290.0,61.32,3.0,Standard,Bassheads,2020.0,4.0,3.0,10.0,2162695798882.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 182
+boAt,Wired Earphones,299.0,999.0,70.07,1.0,Standard,Bassheads,2022.0,6.0,1.0,10.0,6718669815906.0,-1.0,-1.0,,False,False,-1.0,IPX4,0.0,False,Single,False,4.8,-1.0,bassheads 192
+boAt,Wired Earphones,499.0,999.0,50.05,1.0,Standard,Bassheads,2022.0,6.0,1.0,10.0,6718699896930.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.0,-1.0,bassheads 202
+boAt,Wired Earphones,249.0,599.0,58.43,2.0,Standard,Bassheads,2025.0,8.0,2.0,10.0,7404580929634.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.0,-1.0,bassheads 211
+boAt,Wired Earphones,349.0,699.0,50.07,3.0,Standard,Bassheads,2025.0,9.0,3.0,10.0,7406558281826.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,5.0,400.0,bassheads 213l
+boAt,Wired Earphones,998.0,999.0,0.1,6.0,Standard,Bassheads,2020.0,6.0,6.0,10.0,4450746990690.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 220
+boAt,Wired Earphones,499.0,999.0,50.05,9.0,Standard,Bassheads,2019.0,9.0,9.0,10.0,2162730369122.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 225
+boAt,Wired Earphones,499.0,1190.0,58.07,7.0,Standard,Bassheads,2022.0,7.0,7.0,10.0,4394020274274.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 228
+boAt,Wired Earphones,949.0,1490.0,36.31,6.0,Standard,Bassheads,2021.0,3.0,6.0,10.0,6535807795298.0,-1.0,-1.0,,False,False,-1.0,IPX4,0.0,False,Single,False,4.9,-1.0,bassheads 242
+boAt,Wired Earphones,349.0,899.0,61.18,2.0,Standard,Bassheads,2026.0,2.0,2.0,10.0,7501629685858.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,4.6,-1.0,bassheads 55
+boAt,Wired Headphones,1099.0,2490.0,55.86,2.0,Standard,Bassheads,2019.0,11.0,2.0,40.0,2162773885026.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,4.8,-1.0,bassheads 900
+boAt,Wired Headphones,1199.0,3490.0,65.64,1.0,Standard,Bassheads,2026.0,4.0,1.0,40.0,7517561127010.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,3.3,-1.0,bassheads 900 c pro
+boAt,Wired Headphones,1399.0,4990.0,71.96,1.0,Standard,Bassheads,2024.0,8.0,1.0,40.0,7213572325474.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,4.0,-1.0,bassheads 900 pro
+boAt,Wired Headphones,899.0,2990.0,69.93,1.0,Standard,Bassheads,2026.0,3.0,1.0,40.0,7523856941154.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,3.9,-1.0,bassheads 901 pro
+boAt,Wired Earphones,399.0,990.0,59.7,2.0,Standard,Bassheads,2025.0,12.0,2.0,10.0,7456089505890.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,4.5,-1.0,bassheads 90c
+boAt,Wired Headphones,999.0,2490.0,59.88,1.0,Standard,Bassheads,2022.0,7.0,1.0,40.0,4335225602146.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,4.9,-1.0,bassheads 910
+boAt,Wired Earphones,299.0,1199.0,75.06,3.0,Standard,Bassheads,2025.0,2.0,3.0,10.0,7303416184930.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,5.0,-1.0,bassheads 95
+boAt,Wired Headphones,999.0,1990.0,49.8,3.0,Standard,Bassheads,2022.0,1.0,3.0,40.0,6647358390370.0,-1.0,-1.0,,False,False,,,0.0,False,Single,False,5.0,-1.0,bassheads 950v2
+boAt,Neckband,1099.0,2999.0,63.35,4.0,Standard,Wireless Series,2019.0,12.0,4.0,10.0,3950921678946.0,30.0,5.0,,False,False,30.0,IPX4,,False,Dual,False,4.9,320.0,100
+boAt,Neckband,1099.0,1990.0,44.77,4.0,Standard,Wireless Series,2020.0,9.0,4.0,8.0,4495606480994.0,15.0,5.0,,False,False,15.0,IPX4,,False,Dual,False,4.9,160.0,102
+boAt,Neckband,1199.0,1990.0,39.75,4.0,Standard,Wireless Series,2020.0,9.0,4.0,10.0,4482482208866.0,15.0,5.0,,False,False,15.0,IPX4,,False,Dual,False,4.7,160.0,103
+boAt,True Wireless Earbuds,1349.0,2999.0,55.02,4.0,Standard,Airdopes,2022.0,1.0,4.0,13.0,4542502535266.0,7.0,5.1,,False,False,7.0,IPX4,,True,,False,4.8,300.0,airdopes 111
+boAt,True Wireless Earbuds,1299.0,2990.0,56.56,3.0,Standard,Airdopes,2022.0,9.0,3.0,13.0,6776276254818.0,24.0,5.2,,False,True,24.0,IPX4,,True,,True,4.7,400.0,airdopes 113
+boAt,True Wireless Earbuds,2499.0,2990.0,16.42,3.0,Collaboration,Airdopes,2024.0,12.0,3.0,10.0,7118175699042.0,24.0,5.2,,False,True,24.0,IPX4,,True,,True,5.0,320.0,airdopes 118
+boAt,True Wireless Earbuds,999.0,2990.0,66.59,4.0,Standard,Airdopes,2022.0,7.0,4.0,10.0,6741690056802.0,8.0,5.3,,False,True,8.0,IPX5,65.0,True,,True,4.9,400.0,airdopes 121 pro
+boAt,True Wireless Earbuds,1068.0,2990.0,64.28,8.0,Standard,Airdopes,2022.0,7.0,8.0,11.0,6741368438882.0,55.0,5.3,,False,True,55.0,IPX5,65.0,True,,True,4.9,400.0,airdopes 131 pro
+boAt,True Wireless Earbuds,1499.0,2990.0,49.87,2.0,Standard,Airdopes,2026.0,1.0,2.0,13.0,7492131487842.0,17.0,5.4,,False,True,70.0,IPX4,45.0,True,,True,,650.0,airdopes 138 gen 2
+boAt,True Wireless Earbuds,1599.0,2990.0,46.52,14.0,Standard,Airdopes,2022.0,7.0,14.0,13.0,6748344713314.0,3.0,5.0,,False,False,60.0,IPX4,,False,,False,4.9,650.0,airdopes 138
+boAt,True Wireless Earbuds,1499.0,3990.0,62.43,5.0,Standard,Airdopes,2025.0,7.0,5.0,10.0,7392156811362.0,8.0,5.4,,False,True,48.0,IPX4,,True,,True,5.0,450.0,airdopes 141 gen 2
+boAt,True Wireless Earbuds,999.0,2990.0,66.59,3.0,Standard,Airdopes,2022.0,8.0,3.0,12.0,6752581615714.0,6.0,5.3,,False,True,45.0,IPX4,65.0,True,,True,4.9,650.0,airdopes 141 pro
+boAt,True Wireless Earbuds,1399.0,4490.0,68.84,6.0,Standard,Airdopes,2022.0,7.0,6.0,8.0,6746609385570.0,5.0,5.0,,False,True,42.0,IPX4,,True,,False,4.9,600.0,airdopes 148
+boAt,True Wireless Earbuds,1099.0,2490.0,55.86,2.0,Standard,Airdopes,2024.0,12.0,2.0,10.0,7273525968994.0,50.0,5.1,,False,False,50.0,IPX4,,True,,False,4.6,300.0,airdopes 161 metallic
+boAt,True Wireless Earbuds,1599.0,2490.0,35.78,6.0,Standard,Airdopes,2022.0,12.0,6.0,10.0,6824471756898.0,17.0,5.1,,False,False,17.0,IPX5,,True,,False,4.8,300.0,airdopes 163
+boAt,True Wireless Earbuds,1599.0,3490.0,54.18,6.0,Standard,Airdopes,2023.0,2.0,6.0,13.0,6843046559842.0,50.0,5.3,,False,True,50.0,IPX4,50.0,True,,True,4.9,470.0,airdopes 170
+boAt,True Wireless Earbuds,999.0,2990.0,66.59,4.0,Standard,Airdopes,2022.0,5.0,4.0,10.0,6712883052642.0,8.0,5.2,,False,True,35.0,IPX4,,True,,False,5.0,300.0,airdopes 175
+boAt,True Wireless Earbuds,1199.0,2990.0,59.9,4.0,Standard,Airdopes,2022.0,1.0,4.0,10.0,4471819108450.0,4.0,5.2,,False,True,20.0,IPX4,60.0,True,,True,4.9,300.0,airdopes 181
+boAt,True Wireless Earbuds,899.0,2990.0,69.93,3.0,Standard,Airdopes,2022.0,10.0,3.0,10.0,6781455564898.0,4.0,5.2,,False,True,20.0,IPX4,60.0,True,,True,5.0,300.0,airdopes 183
+boAt,True Wireless Earbuds,2299.0,6990.0,67.11,5.0,Standard,Airdopes,2024.0,7.0,5.0,13.0,7202227322978.0,10.0,5.3,32.0,True,True,,IPX4,,True,,False,4.6,400.0,airdopes 191 anc
+boAt,True Wireless Earbuds,1399.0,3490.0,59.91,3.0,Standard,Airdopes,2022.0,6.0,3.0,6.0,6719983812706.0,5.0,5.2,,False,True,30.0,IPX5,65.0,True,,True,4.9,400.0,airdopes 191g
+boAt,True Wireless Earbuds,2069.0,3490.0,40.72,2.0,Standard,Airdopes,2023.0,1.0,2.0,13.0,6837728870498.0,20.0,5.3,,False,True,30.0,IPX4,40.0,True,,True,4.7,400.0,airdopes 192
+boAt,True Wireless Earbuds,899.0,3290.0,72.67,3.0,Standard,Airdopes,2025.0,7.0,3.0,10.0,7387552383074.0,10.0,5.4,,False,True,50.0,IPX4,,True,,True,4.9,300.0,airdopes 212
+boAt,True Wireless Earbuds,2499.0,4999.0,50.01,2.0,Standard,Airdopes,2022.0,7.0,2.0,6.0,6748361916514.0,5.0,5.0,,False,False,14.0,IPX5,,False,,False,,420.0,airdopes 283
+boAt,True Wireless Earbuds,1299.0,3490.0,62.78,1.0,Standard,Airdopes,2023.0,3.0,1.0,6.0,6853268045922.0,12.0,5.0,,False,False,12.0,IPX4,,False,,False,4.0,300.0,airdopes 311v2
+boAt,True Wireless Earbuds,999.0,4999.0,80.02,2.0,Collaboration,Airdopes,2022.0,2.0,2.0,7.0,6657174110306.0,4.0,5.0,,False,False,4.0,IPX5,,True,,False,5.0,500.0,airdopes 381
+boAt,True Wireless Earbuds,999.0,4999.0,80.02,2.0,Collaboration,Airdopes,2022.0,8.0,2.0,7.0,6768726147170.0,4.0,5.0,,False,False,4.0,IPX5,,True,,False,4.6,500.0,airdopes 383
+boAt,True Wireless Earbuds,999.0,5990.0,83.32,3.0,Standard,Airdopes,2022.0,7.0,3.0,10.0,6576819175522.0,6.0,5.0,,False,True,30.0,IPX4,,True,,False,5.0,320.0,airdopes 408
+boAt,True Wireless Earbuds,2499.0,4990.0,49.92,3.0,Collaboration,Airdopes,2022.0,12.0,3.0,10.0,6824123465826.0,5.5,5.2,25.0,True,True,16.0,IPX4,,True,,False,5.0,500.0,airdopes 411 anc
+boAt,True Wireless Earbuds,1299.0,4990.0,73.97,3.0,Standard,Airdopes,2022.0,7.0,3.0,10.0,6744348459106.0,5.5,5.2,25.0,True,True,20.0,IPX4,,True,,False,5.0,320.0,airdopes 413 anc
+boAt,True Wireless Earbuds,1999.0,5999.0,66.68,3.0,Standard,Airdopes,2022.0,8.0,3.0,7.0,6576277323874.0,5.0,5.0,,False,False,10.0,IPX4,,False,,False,4.5,500.0,airdopes 433
+boAt,True Wireless Earbuds,2499.0,5999.0,58.34,2.0,Collaboration,Airdopes,2022.0,2.0,2.0,6.0,6656896467042.0,5.0,5.0,,False,False,5.0,IPX7,,False,,False,5.0,500.0,airdopes 441
+boAt,True Wireless Earbuds,1099.0,2490.0,55.86,3.0,Standard,Airdopes,2026.0,6.0,3.0,10.0,7703345954914.0,45.0,6.0,,False,True,45.0,IPX5,45.0,True,,True,4.7,450.0,airdopes 71 gen 2
+boAt,True Wireless Earbuds,1599.0,6490.0,75.36,4.0,Standard,Airdopes,2024.0,5.0,4.0,10.0,7124716585058.0,40.0,5.3,,False,True,40.0,IPX4,,True,,True,4.7,300.0,airdopes 800
+boAt,True Wireless Earbuds,899.0,3990.0,77.47,3.0,Standard,Airdopes,2025.0,8.0,3.0,13.0,7404376293474.0,45.0,5.4,,False,True,45.0,IPX4,50.0,True,,True,5.0,300.0,airdopes alpha gen 2
+boAt,True Wireless Earbuds,1099.0,3490.0,68.51,4.0,Standard,Airdopes,2022.0,12.0,4.0,13.0,6827263262818.0,50.0,5.3,,False,True,50.0,IPX5,50.0,True,,True,4.8,300.0,airdopes atom 83
+boAt,True Wireless Earbuds,1099.0,2990.0,63.24,3.0,Standard,Airdopes,2026.0,7.0,3.0,10.0,7741914382434.0,8.0,6.0,,False,True,55.0,IPX4,,True,,False,,400.0,airdopes plus 214
+boAt,True Wireless Earbuds,1099.0,2499.0,56.02,3.0,Standard,Airdopes,2026.0,7.0,3.0,13.0,7739546533986.0,8.0,6.0,,False,True,60.0,IPX4,,True,,False,5.0,600.0,airdopes plus 222
+boAt,True Wireless Earbuds,1199.0,3499.0,65.73,3.0,Standard,Airdopes,2026.0,7.0,3.0,40.0,7742043357282.0,8.0,6.0,,False,True,60.0,IPX4,,True,,False,5.0,600.0,airdopes plus 223
+boAt,True Wireless Earbuds,1199.0,3499.0,65.73,3.0,Standard,Airdopes,2026.0,7.0,3.0,13.0,7742297931874.0,8.0,6.0,,False,False,60.0,IPX4,,True,,False,3.8,600.0,airdopes plus 224
+boAt,True Wireless Earbuds,899.0,3990.0,77.47,4.0,Standard,Airdopes,2025.0,4.0,4.0,10.0,7331312271458.0,8.5,5.3,,False,True,50.0,IPX4,,True,,True,4.8,470.0,airdopes plus 311
+boAt,True Wireless Earbuds,1499.0,4999.0,70.01,3.0,Standard,Airdopes,2026.0,8.0,3.0,13.0,7760491380834.0,8.0,6.0,35.0,True,False,55.0,IPX4,,True,,False,4.0,400.0,airdopes plus 421 anc
+boAt,True Wireless Earbuds,1099.0,4490.0,75.52,3.0,Standard,Airdopes,2025.0,9.0,3.0,11.0,7414405496930.0,8.0,5.4,,False,False,50.0,IPX5,,True,,True,5.0,500.0,airdopes prime 413
+boAt,True Wireless Earbuds,1299.0,4990.0,73.97,3.0,Standard,Airdopes,2026.0,2.0,3.0,13.0,7504381018210.0,8.0,6.1,,False,True,50.0,IPX4,,True,,False,5.0,500.0,airdopes prime 512
+boAt,True Wireless Earbuds,1499.0,4599.0,67.41,6.0,Standard,Airdopes,2026.0,7.0,6.0,11.0,7753988374626.0,7.5,6.1,,False,False,45.0,IPX5,,True,,False,4.7,500.0,airdopes prime 800d
+boAt,True Wireless Earbuds,1499.0,4299.0,65.13,3.0,Standard,Airdopes,2026.0,8.0,3.0,11.0,7763814383714.0,8.0,6.1,,False,False,60.0,IPX5,,True,,False,4.1,500.0,airdopes prime supreme
+boAt,True Wireless Earbuds,1099.0,4490.0,75.52,1.0,Standard,Airdopes,2024.0,11.0,1.0,10.0,7265948368994.0,6.0,5.3,,False,True,45.0,IPX4,,True,,True,4.1,400.0,airdopes primo
+boAt,True Wireless Earbuds,2199.0,4999.0,56.01,3.0,Super Saver,Airdopes,2026.0,9.0,3.0,12.0,7782470680674.0,8.0,6.0,,False,False,52.0,IPX4,,True,,False,4.8,500.0,airdopes proclip
+boAt,True Wireless Earbuds,1999.0,6990.0,71.4,2.0,Standard,Airdopes,2024.0,8.0,2.0,15.0,7205351489634.0,100.0,5.3,,False,True,100.0,IPX5,,True,,False,4.4,600.0,airdopes progear
+boAt,True Wireless Earbuds,5990.0,5990.0,0.0,1.0,Standard,Airdopes,2025.0,9.0,1.0,10.0,7418975780962.0,8.0,5.4,,False,True,50.0,IPX4,,True,,True,5.0,500.0,airdopes pulse
+boAt,True Wireless Earbuds,1499.0,4599.0,67.41,2.0,Standard,Airdopes,2026.0,7.0,2.0,13.0,7738086981730.0,8.0,6.0,,False,False,50.0,IPX4,,True,,False,5.0,400.0,airdopes stride
+boAt,Wired Earphones,399.0,1299.0,69.28,2.0,Collaboration,Bassheads,2022.0,2.0,2.0,10.0,6656901021794.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.9,-1.0,bassheads 152
+boAt,Wired Earphones,349.0,1299.0,73.13,2.0,Collaboration,Bassheads,2022.0,2.0,2.0,10.0,6657172242530.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.9,-1.0,bassheads 172
+boAt,Wired Earphones,399.0,999.0,60.06,6.0,Standard,Bassheads,2022.0,9.0,6.0,10.0,6773456371810.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 180
+boAt,Wired Earphones,399.0,999.0,60.06,4.0,Standard,Bassheads,2022.0,9.0,4.0,10.0,6772575797346.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.9,-1.0,bassheads 200
+boAt,Wired Earphones,299.0,599.0,50.08,2.0,Standard,Bassheads,2025.0,12.0,2.0,10.0,7404705349730.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,5.0,-1.0,bassheads 210
+boAt,Wired Earphones,449.0,699.0,35.77,2.0,Standard,Bassheads,2025.0,12.0,2.0,10.0,7455564759138.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,5.0,-1.0,bassheads 212l
+boAt,Wired Earphones,499.0,999.0,50.05,5.0,Standard,Bassheads,2022.0,2.0,5.0,10.0,6662565953634.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.8,-1.0,bassheads 220 mki
+boAt,Wired Earphones,499.0,999.0,50.05,2.0,Standard,Bassheads,2025.0,9.0,2.0,10.0,7406187216994.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,4.2,-1.0,bassheads 300c
+boAt,Wired Earphones,419.0,499.0,16.03,2.0,Standard,Bassheads,2026.0,2.0,2.0,10.0,7406174109794.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,,-1.0,bassheads 85
+boAt,True Wireless Earbuds,1599.0,3490.0,54.18,2.0,Standard,Immortal,2022.0,12.0,2.0,10.0,6822444040290.0,40.0,5.3,,False,True,40.0,IPX4,40.0,True,,True,4.8,400.0,immortal 121
+boAt,Headphones,3499.0,9990.0,64.97,4.0,Standard,Immortal,2021.0,9.0,4.0,40.0,6597968035938.0,4.0,5.1,,False,False,33.0,,35.0,False,,True,4.7,,immortal 1300
+boAt,True Wireless Earbuds,999.0,3490.0,71.38,2.0,Standard,Immortal,2023.0,1.0,2.0,10.0,6837055979618.0,40.0,5.3,,False,True,40.0,IPX4,40.0,True,,True,4.9,400.0,immortal 131
+boAt,Headphones,2499.0,7999.0,68.76,1.0,Collaboration,Nirvana,2025.0,2.0,1.0,40.0,7300807524450.0,20.0,5.3,,False,True,20.0,,,True,,False,4.5,600.0,nirvana eutopia
+boAt,True Wireless Earbuds,2699.0,11999.0,77.51,1.0,Limited,Nirvana,2024.0,8.0,1.0,10.0,7215191982178.0,24.0,5.2,32.0,True,True,120.0,IPX4,,True,,True,4.8,600.0,nirvana ion anc
+boAt,True Wireless Earbuds,2999.0,4999.0,40.01,1.0,Collaboration,Nirvana,2025.0,2.0,1.0,11.0,7300827086946.0,50.0,5.3,50.0,True,False,50.0,IPX5,,True,,False,4.5,400.0,nirvana ivy
+boAt,True Wireless Earbuds,1499.0,9999.0,85.01,2.0,Standard,Nirvana,2024.0,12.0,2.0,10.0,7238121422946.0,6.0,5.3,32.0,True,False,,IPX5,,True,,True,4.8,400.0,nirvana lucid
+boAt,True Wireless Earbuds,1299.0,7999.0,83.76,5.0,Standard,Nirvana,2024.0,7.0,5.0,10.0,7197097656418.0,5.0,5.3,32.0,True,False,,IPX4,40.0,True,,False,4.8,400.0,nirvana space
+boAt,True Wireless Earbuds,2799.0,14990.0,81.33,3.0,Super Saver,Nirvana,2026.0,7.0,3.0,12.0,7757744636002.0,80.0,5.3,50.0,True,False,80.0,IPX4,,True,,False,4.6,600.0,nirvana zenith pro
+boAt,Neckband,899.0,2490.0,63.9,2.0,Standard,Rockerz,2025.0,5.0,2.0,10.0,7353034145890.0,40.0,5.3,,False,True,40.0,IPX5,,True,Dual,True,5.0,600.0,rockerz 113
+boAt,Neckband,1599.0,2490.0,35.78,2.0,Standard,Rockerz,2025.0,7.0,2.0,10.0,7392760463458.0,40.0,5.3,,False,True,10.0,IPX4,,True,Dual,True,4.7,600.0,rockerz 200
+boAt,Neckband,999.0,2790.0,64.19,2.0,Standard,Rockerz,2025.0,7.0,2.0,10.0,7388464283746.0,20.0,5.3,,False,True,10.0,IPX5,,True,Dual,True,4.2,600.0,rockerz 203
+boAt,Neckband,1999.0,2499.0,20.01,4.0,Standard,Rockerz,2022.0,7.0,4.0,10.0,6615634640994.0,30.0,5.2,,False,True,30.0,IPX5,65.0,True,,False,4.9,400.0,rockerz 205 pro
+boAt,Neckband,1399.0,1990.0,29.7,3.0,Standard,Rockerz,2023.0,3.0,3.0,10.0,6853317525602.0,20.0,5.2,,False,True,20.0,IPX5,,True,Dual,True,4.8,400.0,rockerz 238 pro
+boAt,Neckband,1299.0,2990.0,56.56,4.0,Standard,Rockerz,2022.0,3.0,4.0,12.0,6668278431842.0,25.0,5.2,,False,True,25.0,IPX6,,True,Dual,True,4.8,400.0,rockerz 255 neo
+boAt,Neckband,999.0,3990.0,74.96,5.0,Standard,Rockerz,2021.0,2.0,5.0,10.0,4546811920482.0,60.0,5.2,,False,False,60.0,IPX7,,True,,True,4.8,600.0,rockerz 255 pro plus
+boAt,Neckband,1499.0,3990.0,62.43,3.0,Standard,Rockerz,2022.0,7.0,3.0,10.0,6748411986018.0,40.0,5.2,,False,False,40.0,IPX7,,True,,False,4.6,150.0,rockerz 258 pro
+boAt,Neckband,989.0,2499.0,60.42,4.0,Standard,Rockerz,2022.0,6.0,4.0,10.0,6717258137698.0,15.0,5.2,,False,True,10.0,IPX5,55.0,True,Dual,True,4.9,180.0,rockerz 260
+boAt,Neckband,1299.0,3490.0,62.78,2.0,Standard,Rockerz,2025.0,9.0,2.0,10.0,7414720233570.0,40.0,5.4,30.0,True,False,40.0,IPX5,,True,,True,5.0,150.0,rockerz 301 anc
+boAt,Neckband,1199.0,2990.0,59.9,5.0,Standard,Rockerz,2021.0,12.0,5.0,10.0,6627962683490.0,60.0,5.2,,False,True,60.0,IPX5,,True,,False,4.9,300.0,rockerz 330 pro
+boAt,Neckband,1599.0,4490.0,64.39,3.0,Standard,Rockerz,2026.0,8.0,3.0,10.0,7766302523490.0,60.0,5.4,42.0,True,False,60.0,IPX5,40.0,True,Dual,True,3.5,600.0,rockerz 351 anc
+boAt,Neckband,3099.0,3990.0,22.33,1.0,Standard,Rockerz,2026.0,1.0,1.0,12.0,6845590175842.0,20.0,5.0,,False,False,10.0,IP66,,True,,False,3.6,200.0,rockerz 355
+boAt,Headphones,1499.0,2999.0,50.02,3.0,Standard,Rockerz,2024.0,9.0,3.0,40.0,7224010866786.0,40.0,5.3,,False,False,40.0,IPX5,,True,,True,4.9,300.0,rockerz 370 pro
+boAt,Neckband,1099.0,2999.0,63.35,3.0,Standard,Rockerz,2025.0,9.0,3.0,40.0,7415557849186.0,50.0,5.4,,False,True,50.0,IPX4,60.0,True,,True,4.7,250.0,rockerz 371
+boAt,Neckband,1299.0,2999.0,56.69,2.0,Standard,Rockerz,2025.0,7.0,2.0,40.0,7387715043426.0,60.0,5.4,,False,True,60.0,IPX4,,True,,True,4.8,300.0,rockerz 412
+boAt,Neckband,1199.0,2990.0,59.9,4.0,Standard,Rockerz,2025.0,7.0,4.0,40.0,7388451274850.0,60.0,5.2,,False,True,60.0,,,True,Dual,True,5.0,300.0,rockerz 413
+boAt,Headphones,2490.0,2490.0,0.0,3.0,Standard,Rockerz,2026.0,9.0,3.0,50.0,7788964315234.0,60.0,5.4,,False,False,60.0,IPX4,,True,,True,,400.0,rockerz 421 gen 2
+boAt,Neckband,1199.0,2490.0,51.85,3.0,Standard,Rockerz,2025.0,7.0,3.0,40.0,7388452520034.0,40.0,5.4,,False,True,40.0,IPX4,40.0,True,Dual,True,4.7,400.0,rockerz 421
+boAt,Headphones,1299.0,2490.0,47.83,7.0,Standard,Rockerz,2024.0,12.0,7.0,40.0,6724880171106.0,30.0,5.2,,False,True,30.0,IPX5,,True,Dual,True,4.9,400.0,rockerz 460
+boAt,Headphones,1599.0,2490.0,35.78,3.0,Franchise,Rockerz,2025.0,7.0,3.0,40.0,7377054826594.0,30.0,5.0,,False,False,30.0,,,False,,True,4.7,400.0,rockerz 460
+boAt,Headphones,2999.0,7990.0,62.47,3.0,Standard,Rockerz,2025.0,8.0,3.0,40.0,7400384430178.0,80.0,5.4,40.0,True,True,80.0,IPX5,,True,,False,5.0,400.0,rockerz 512 anc
+boAt,Headphones,1999.0,4999.0,60.01,3.0,Collaboration,Rockerz,2022.0,2.0,3.0,50.0,6656902365282.0,20.0,5.0,,False,False,20.0,IPX5,,False,,False,4.8,500.0,rockerz 550
+boAt,Headphone,1999.0,3990.0,49.9,1.0,Franchise,Rockerz,2022.0,11.0,1.0,40.0,6749124100194.0,60.0,5.3,,False,False,60.0,,,True,Dual,False,4.9,800.0,rockerz 650
+boAt,Headphones,1999.0,4999.0,60.01,3.0,Collaboration,Rockerz,2022.0,8.0,3.0,40.0,6768797417570.0,60.0,5.3,,False,False,60.0,,,True,Dual,False,4.9,800.0,rockerz 650
+boAt,Neckband,979.0,2499.0,60.82,3.0,Standard,Rockerz,2023.0,2.0,3.0,12.0,6840194072674.0,30.0,5.3,,False,True,30.0,IPX4,40.0,True,,True,4.8,180.0,rockerz apex
+boAt,Headphones,2199.0,4999.0,56.01,3.0,Standard,Rockerz,2026.0,7.0,3.0,40.0,7738154287202.0,60.0,5.3,,False,True,60.0,IPX4,,True,,False,5.0,500.0,rockerz plus 440
+boAt,Headphones,3099.0,4990.0,37.9,3.0,Standard,Rockerz,2026.0,5.0,3.0,40.0,7629666549858.0,80.0,6.0,40.0,True,False,80.0,IPX4,,True,,False,4.2,800.0,rockerz plus 450 anc
+boAt,Headphones,2199.0,4990.0,55.93,4.0,Standard,Rockerz,2025.0,8.0,4.0,50.0,7401467543650.0,100.0,5.3,,False,False,100.0,IPX4,,True,,False,4.5,1000.0,rockerz plus 550
+boAt,Neckband,1199.0,2990.0,59.9,2.0,Standard,Rockerz,2025.0,8.0,2.0,10.0,7401405907042.0,50.0,5.3,,False,True,50.0,IPX4,,True,Dual,True,3.9,300.0,rockerz prime 205
+boAt,Headphones,2099.0,3999.0,47.51,2.0,Standard,Rockerz,2025.0,12.0,2.0,40.0,7456558252130.0,120.0,5.3,,False,True,120.0,IPX5,40.0,True,,True,4.7,1000.0,rockerz prime 415
+boAt,Neckband,1249.0,4490.0,72.18,2.0,Standard,Rockerz,2026.0,2.0,2.0,10.0,7514151288930.0,30.0,5.3,,False,False,30.0,IPX5,60.0,True,Dual,True,5.0,200.0,rockerz strive
+boAt,Neckband,1199.0,4490.0,73.3,1.0,Standard,Rockerz,2024.0,8.0,1.0,10.0,7224037965922.0,30.0,5.3,,False,True,10.0,IPX5,,True,Dual,True,4.5,250.0,rockerz summit
+boAt,Neckband,1499.0,2790.0,46.27,2.0,Standard,Rockerz,2025.0,8.0,2.0,10.0,7401820946530.0,150.0,5.3,,False,True,150.0,IPX5,,True,Dual,True,4.5,1000.0,rockerz trinity grande
+boAt,Neckband,1999.0,3490.0,42.72,2.0,Standard,Rockerz,2026.0,1.0,2.0,13.0,7490783215714.0,40.0,5.3,30.0,True,True,40.0,IPX5,,True,,True,,300.0,rockerz zen anc
+boAt,Headphones,1599.0,4999.0,68.01,3.0,Standard,Sailor Play,2026.0,7.0,3.0,40.0,7751362773090.0,60.0,5.4,,False,False,60.0,IPX4,,True,,False,4.6,400.0,sailor play
+boAt,Neckband,1699.0,2990.0,43.18,4.0,Standard,Rockerz,2023.0,1.0,4.0,10.0,6836969963618.0,25.0,5.2,,False,False,25.0,IPX5,65.0,True,,True,3.9,200.0,wireless rockerz 378
+Noise,True Wireless Earbuds,999.0,3499.0,71.45,4.0,Standard,Buds,2025.0,11.0,4.0,11.0,7507957088343.0,8.0,5.3,,False,True,40.0,IPX5,40.0,True,,False,,110.0,buds n1
+Noise,True Wireless Earbuds,1199.0,3499.0,65.73,3.0,Standard,Buds,2025.0,11.0,3.0,10.0,7507957022807.0,7.0,5.3,,False,True,40.0,IPX4,60.0,True,Dual,False,,400.0,buds uno
+Noise,True Wireless Earbuds,1299.0,2999.0,56.69,2.0,Standard,Buds,2022.0,9.0,2.0,13.0,6806800269399.0,5.0,5.3,,False,False,35.0,IPX4,,False,,False,,400.0,buds vs304
+Noise,True Wireless Earbuds,1599.0,5499.0,70.92,2.0,Standard,Buds,2026.0,7.0,2.0,13.0,7716367990871.0,5.0,5.3,25.0,True,True,35.0,IPX4,,True,,False,,400.0,buds x anc
+Noise,True Wireless Earbuds,1599.0,4499.0,64.46,3.0,Standard,Buds,2024.0,3.0,3.0,11.0,6912339247191.0,8.0,5.3,,False,True,120.0,,50.0,True,,False,,400.0,buds x prime
+boAt,Headphones,1999.0,4990.0,59.94,2.0,Standard,Immortal,2022.0,11.0,2.0,50.0,6746649329762.0,10.0,-1.0,,False,True,,IPX4,,False,,True,4.8,1000.0,immortal 300
+boAt,Headphones,2399.0,5990.0,59.95,3.0,Standard,Immortal,2021.0,7.0,3.0,50.0,6573112164450.0,10.0,-1.0,,False,True,,IPX4,,False,,True,4.9,1000.0,im 1000d
+boAt,True Wireless Earbuds,1099.0,3299.0,66.69,2.0,Standard,Immortal,2023.0,10.0,2.0,10.0,6907327774818.0,30.0,5.3,,False,True,30.0,IPX4,,True,,True,4.5,300.0,immortal 100
+boAt,True Wireless Earbuds,1599.0,3299.0,51.53,2.0,Standard,Immortal,2023.0,8.0,2.0,10.0,6891464884322.0,30.0,5.3,,False,True,30.0,IPX4,40.0,True,,True,4.9,300.0,immortal 101
+boAt,True Wireless Earbuds,1299.0,3499.0,62.88,2.0,Standard,Immortal,2024.0,1.0,2.0,10.0,6971695792226.0,10.0,5.3,,False,True,,IPX4,,True,,True,5.0,300.0,immortal 111
+boAt,True Wireless Earbuds,1799.0,3499.0,48.59,2.0,Standard,Immortal,2023.0,9.0,2.0,10.0,6904324816994.0,10.0,5.3,,False,True,40.0,IPX4,40.0,False,,True,4.6,300.0,immortal 125
+boAt,True Wireless Earbuds,1499.0,3490.0,57.05,2.0,Standard,Immortal,2023.0,6.0,2.0,10.0,6875837988962.0,40.0,5.3,,False,True,40.0,IPX4,40.0,False,,True,4.8,300.0,immortal 128
+boAt,True Wireless Earbuds,1299.0,3499.0,62.88,2.0,Standard,Immortal,2023.0,6.0,2.0,10.0,6876346351714.0,40.0,5.3,,False,True,40.0,IPX4,40.0,True,,True,4.9,400.0,immortal 150
+boAt,True Wireless Earbuds,1399.0,3499.0,60.02,2.0,Standard,Immortal,2024.0,6.0,2.0,10.0,7174290899042.0,10.0,5.3,,False,True,,IPX4,,True,,True,4.7,400.0,immortal 158
+boAt,True Wireless Earbuds,1299.0,3499.0,62.88,2.0,Standard,Immortal,2023.0,8.0,2.0,13.0,6890933125218.0,10.0,5.3,,False,True,40.0,IPX4,40.0,True,,True,4.9,400.0,immortal 161
+boAt,True Wireless Earbuds,1849.0,3499.0,47.16,2.0,Standard,Immortal,2023.0,9.0,2.0,10.0,6897424105570.0,40.0,5.3,,False,True,40.0,IPX4,40.0,True,,True,4.7,400.0,immortal 170
+boAt,True Wireless Earbuds,1349.0,3499.0,61.45,2.0,Standard,Immortal,2023.0,7.0,2.0,10.0,6884108927074.0,40.0,5.3,,False,True,40.0,IPX5,40.0,False,,True,4.8,400.0,immortal 171
+boAt,True Wireless Earbuds,1299.0,3499.0,62.88,2.0,Standard,Immortal,2023.0,9.0,2.0,10.0,6899134038114.0,40.0,5.3,,False,True,40.0,IPX4,,True,,True,4.8,400.0,immortal 181
+boAt,Headphones,1899.0,4990.0,61.94,4.0,Standard,Immortal,2021.0,7.0,4.0,50.0,6573232128098.0,10.0,-1.0,,False,True,,,,False,,True,4.7,400.0,immortal 200
+boAt,True Wireless Earbuds,2699.0,3499.0,22.86,2.0,Standard,Immortal,2024.0,1.0,2.0,10.0,6969708806242.0,10.0,5.3,,False,False,,IPX4,40.0,True,,True,4.9,400.0,immortal 201
+boAt,Headphones,2359.0,6990.0,66.25,1.0,Standard,Immortal,2022.0,1.0,1.0,50.0,6649225085026.0,10.0,-1.0,,False,True,,,,False,,True,4.7,400.0,immortal 400
+boAt,Headphones,2799.0,6990.0,59.96,1.0,Standard,Immortal,2022.0,1.0,1.0,50.0,6648669634658.0,10.0,-1.0,,False,True,,IPX4,,False,,True,4.7,400.0,immortal 700
+boAt,True Wireless Earbuds,1999.0,6990.0,71.4,2.0,Standard,Immortal,2024.0,7.0,2.0,10.0,7204722901090.0,6.0,5.3,32.0,True,True,,IPX4,40.0,True,,True,4.5,380.0,immortal airspeed pro
+boAt,True Wireless Earbuds,2299.0,4999.0,54.01,2.0,Standard,Immortal,2026.0,1.0,2.0,10.0,7268532551778.0,70.0,5.3,,False,False,70.0,IPX4,40.0,True,,True,4.8,720.0,immortal katana 2 0 blade
+boAt,True Wireless Earbuds,2299.0,3999.0,42.51,4.0,Standard,Immortal,2023.0,11.0,4.0,10.0,6907323318370.0,50.0,5.3,,False,False,50.0,IPX4,,True,,True,,500.0,immortal katana blade
+boAt,Headphones,2999.0,19999.0,85.0,1.0,Standard,Nirvana,2020.0,10.0,1.0,40.0,4510882922594.0,30.0,5.0,35.0,True,False,30.0,,,False,,False,4.5,700.0,nirvana 1007 anc
+boAt,Neckband,2799.0,4990.0,43.91,3.0,Standard,Nirvana,2023.0,5.0,3.0,11.0,6872322670690.0,5.0,5.2,42.0,True,False,30.0,IPX5,40.0,True,,False,,180.0,nirvana 525 anc
+boAt,Headphones,3499.0,7990.0,56.21,1.0,Standard,Nirvana,2022.0,10.0,1.0,40.0,4247668228194.0,10.0,5.0,20.0,True,False,15.0,IPX4,,False,,False,4.7,500.0,nirvana 717 anc
+boAt,Headphones,3299.0,7990.0,58.71,3.0,Standard,Nirvana,2026.0,1.0,3.0,40.0,6650542030946.0,65.0,5.0,32.0,True,False,65.0,,,True,Dual,False,4.2,1000.0,nirvana 751 anc
+boAt,Wired Earphones,1099.0,1990.0,44.77,1.0,Standard,Nirvana,2022.0,9.0,1.0,10.0,4513650901090.0,-1.0,-1.0,,False,False,-1.0,,40.0,False,Single,False,,-1.0,nirvana ce 1
+boAt,True Wireless Earbuds,1799.0,9990.0,81.99,3.0,Standard,Nirvana,2026.0,1.0,3.0,10.0,7481577209954.0,50.0,6.0,50.0,True,False,,IPX4,,True,Dual,False,3.0,470.0,nirvana crown tws
+boAt,True Wireless Earbuds,1999.0,10990.0,81.81,4.0,Standard,Nirvana,2025.0,3.0,4.0,10.0,7318915219554.0,100.0,5.3,32.0,True,False,100.0,IPX4,,True,Dual,True,4.7,480.0,nirvana crystl
+boAt,Headphone,5999.0,9990.0,39.95,2.0,Standard,Nirvana,2026.0,7.0,2.0,10.0,7738042548322.0,80.0,5.4,45.0,True,True,80.0,IPX4,,True,,False,,800.0,nirvana eutopia 2 anc
+boAt,Headphones,4499.0,7490.0,39.93,2.0,Standard,Nirvana,2024.0,3.0,2.0,40.0,7032829739106.0,20.0,5.2,,False,True,20.0,,65.0,True,,False,,600.0,nirvana eutopia
+boAt,True Wireless Earbuds,2999.0,9990.0,69.98,14.0,Standard,Nirvana,2023.0,12.0,14.0,10.0,6953496182882.0,120.0,5.2,32.0,True,True,120.0,IPX4,,True,,False,,600.0,nirvana ion anc
+boAt,True Wireless Earbuds,449.0,13990.0,96.79,5.0,Standard,Nirvana,2024.0,11.0,5.0,10.0,7237644255330.0,120.0,5.3,32.0,True,False,120.0,IPX4,,True,,True,4.2,600.0,nirvana ion anc pro
+boAt,True Wireless Earbuds,2699.0,11990.0,77.49,2.0,Limited,Nirvana,2024.0,4.0,2.0,10.0,7067994456162.0,120.0,5.3,32.0,True,True,120.0,IPX4,,True,,True,4.8,600.0,nirvana ion anc
+boAt,True Wireless Earbuds,3999.0,7990.0,49.95,4.0,Standard,Nirvana,2023.0,3.0,4.0,10.0,6851283746914.0,24.0,5.2,,False,True,120.0,IPX4,60.0,True,,False,,600.0,nirvana ion
+boAt,True Wireless Earbuds,4599.0,9990.0,53.96,2.0,Standard,Nirvana,2024.0,12.0,2.0,10.0,7268939432034.0,120.0,5.3,32.0,True,False,120.0,IPX4,,True,Dual,True,,600.0,nirvana iris anc
+boAt,True Wireless Earbuds,4399.0,17990.0,75.55,8.0,Standard,Nirvana,2025.0,7.0,8.0,11.0,7378280185954.0,50.0,5.3,52.0,True,False,50.0,IPX4,,True,,False,4.7,400.0,nirvana ivy pro
+boAt,True Wireless Earbuds,2299.0,17999.0,87.23,6.0,Standard,Nirvana,2024.0,9.0,6.0,11.0,7226107035746.0,50.0,5.3,50.0,True,False,50.0,IPX5,,True,Dual,False,,400.0,nirvana ivy
+boAt,True Wireless Earbuds,2999.0,12990.0,76.91,2.0,Standard,Nirvana,2024.0,5.0,2.0,11.0,7135495782498.0,35.0,5.3,35.0,True,False,,IPX4,,True,,True,,500.0,nirvana nebula anc
+boAt,Wired Earphones,449.0,1990.0,77.44,2.0,Standard,Nirvana,2022.0,9.0,1.0,8.0,1994163159138.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,,-1.0,nirvana uno
+boAt,True Wireless Earbuds,2399.0,8990.0,73.31,4.0,Standard,Nirvana,2025.0,2.0,4.0,10.0,7292005318754.0,40.0,5.3,,False,True,40.0,IPX4,,True,Dual,False,4.5,400.0,nirvana x
+boAt,True Wireless Earbuds,3999.0,17990.0,77.77,2.0,Standard,Nirvana,2024.0,5.0,2.0,11.0,7135579373666.0,50.0,5.3,50.0,True,True,50.0,IPX5,,True,,False,4.6,600.0,nirvana zenith anc
+boAt,True Wireless Earbuds,3199.0,14990.0,78.66,3.0,Standard,Nirvana,2025.0,7.0,3.0,12.0,7378341527650.0,80.0,5.4,50.0,True,False,80.0,IPX4,,True,Dual,False,4.6,600.0,nirvana zenith pro
+boAt,Wired Earphones,899.0,2990.0,69.93,1.0,Standard,Nirvana,2022.0,9.0,1.0,10.0,4513651032162.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,,-1.0,nirvanaa duo
+Noise,Headphones,1999.0,5999.0,66.68,3.0,Standard,Airwave,2024.0,6.0,3.0,40.0,7217409491031.0,10.0,5.3,,False,True,70.0,IPX5,40.0,True,Dual,True,4.76,400.0,airwave max 4
+Noise,True Wireless Earbuds,1699.0,4999.0,66.01,1.0,Standard,Buds,2022.0,10.0,1.0,13.0,6827287969879.0,6.0,5.3,,False,True,40.0,IPX4,,True,,False,4.74,400.0,air buds 2
+Noise,True Wireless Earbuds,1099.0,4499.0,75.57,2.0,Standard,Buds,2023.0,9.0,2.0,13.0,6904828395607.0,7.0,5.3,,False,True,45.0,IPX5,45.0,False,,True,,400.0,air buds 3
+Noise,True Wireless Earbuds,2999.0,3499.0,14.29,3.0,Standard,Buds,2024.0,12.0,3.0,12.4,7335224049751.0,8.0,5.3,32.0,True,False,50.0,IPX5,,True,,False,4.73,500.0,air buds 6
+Noise,True Wireless Earbuds,1399.0,2499.0,44.02,4.0,Standard,Buds,2023.0,7.0,4.0,13.0,6891146543191.0,7.0,5.3,,False,True,45.0,IPX5,,True,,False,4.0,300.0,air buds mini 2
+Noise,True Wireless Earbuds,1499.0,2999.0,50.02,3.0,Standard,Buds,2021.0,5.0,3.0,14.2,6562263760983.0,3.5,5.0,,False,True,15.0,IPX4,,False,,False,4.52,300.0,air buds mini
+Noise,True Wireless Earbuds,999.0,2999.0,66.69,2.0,Standard,Buds,2021.0,10.0,2.0,14.2,6597649596503.0,6.0,5.3,,False,False,15.0,IPX5,,False,,False,5.0,400.0,air buds nano
+Noise,True Wireless Earbuds,1499.0,5999.0,75.01,2.0,Standard,Buds,2021.0,7.0,2.0,6.0,6577792024663.0,4.0,5.0,,False,True,8.0,IPX4,,True,,False,,300.0,air buds plus
+Noise,True Wireless Earbuds,2699.0,7999.0,66.26,2.0,Standard,Buds,2022.0,9.0,2.0,10.0,6792820424791.0,5.0,5.2,40.0,True,True,25.0,IPX5,,True,,False,4.61,500.0,air buds pro 2
+Noise,True Wireless Earbuds,1999.0,5499.0,63.65,4.0,Standard,Buds,2023.0,9.0,4.0,13.0,6901966864471.0,7.0,5.3,30.0,True,True,45.0,IPX5,45.0,True,,False,,400.0,air buds pro 3
+Noise,True Wireless Earbuds,2499.0,5499.0,54.56,4.0,Standard,Buds,2024.0,9.0,4.0,10.0,7286412247127.0,8.0,5.4,40.0,True,True,50.0,IPX5,,True,,False,4.93,500.0,air buds pro 4
+Noise,True Wireless Earbuds,3499.0,3999.0,12.5,3.0,Standard,Buds,2025.0,3.0,3.0,10.0,7335224868951.0,7.0,5.3,49.0,True,False,20.0,IPX5,,True,Dual,False,4.68,500.0,air buds pro 6
+Noise,True Wireless Earbuds,1499.0,5499.0,72.74,2.0,Standard,Buds,2023.0,9.0,2.0,13.0,6912077234263.0,7.5,5.3,30.0,True,False,45.0,IPX5,,True,,False,4.89,400.0,air buds pro se
+Noise,True Wireless Earbuds,2299.0,5999.0,61.68,2.0,Standard,Buds,2024.0,3.0,2.0,13.0,4662446227543.0,4.0,5.0,,False,False,20.0,,,False,,False,,500.0,air buds
+Noise,True Wireless Earbuds,2999.0,3999.0,25.01,3.0,Standard,Air Clips,2025.0,7.0,3.0,12.0,7444512309335.0,6.5,5.3,,True,False,40.0,IPX5,,True,Dual,False,4.7,200.0,air clips 2 ows
+Noise,True Wireless Earbuds,2599.0,3999.0,35.01,3.0,Standard,Air Clips,2024.0,11.0,3.0,12.0,7326495604823.0,5.0,5.0,,False,False,40.0,IPX4,,True,Dual,False,4.77,200.0,air clips ows
+Noise,True Wireless Earbuds,3499.0,4499.0,22.23,3.0,Standard,Air Clips,2026.0,4.0,3.0,11.0,7616865108055.0,6.0,5.3,,True,True,50.0,IPX4,,True,Dual,False,4.81,400.0,air clips pro ows
+Noise,Neckband,1199.0,2999.0,60.02,4.0,Standard,Airwave,2026.0,7.0,4.0,13.0,7716375363671.0,50.0,5.3,,False,False,,,,True,,False,,,airwave crest
+Noise,Headphones,1499.0,2999.0,50.02,3.0,Standard,Airwave,2026.0,8.0,3.0,40.0,7741126475863.0,10.0,5.3,,False,False,50.0,,,True,Dual,False,,500.0,airwave max 2
+Noise,Headphone,4499.0,5999.0,25.0,4.0,Standard,Airwave,2025.0,1.0,4.0,40.0,7335225458775.0,80.0,5.0,50.0,True,False,80.0,IPX5,30.0,True,Dual,False,4.76,600.0,airwave max 5
+Noise,Headphone,6499.0,6999.0,7.14,4.0,Standard,Airwave,2026.0,2.0,4.0,40.0,7582342905943.0,80.0,5.3,45.0,True,True,120.0,IPX5,85.0,True,Dual,True,4.74,600.0,airwave max 6
+Noise,Headphones,1999.0,5499.0,63.65,3.0,Standard,Airwave,2023.0,11.0,3.0,40.0,6943329058903.0,70.0,5.3,,False,False,70.0,IPX5,45.0,True,Dual,True,4.73,600.0,airwave max three
+Noise,Headphones,3499.0,4999.0,30.01,4.0,Standard,Airwave,2025.0,11.0,4.0,40.0,7506535284823.0,120.0,5.3,22.0,True,False,120.0,IPX4,85.0,True,Dual,True,,750.0,airwave max xr
+Noise,Neckband,1099.0,2499.0,56.02,4.0,Standard,Airwave,2024.0,1.0,4.0,10.0,6978208038999.0,50.0,5.0,,False,True,50.0,IPX5,50.0,True,,False,5.0,200.0,airwave
+Noise,Neckband,1699.0,2499.0,32.01,4.0,Standard,Airwave,2024.0,8.0,4.0,10.0,7274859102295.0,50.0,5.0,,False,True,50.0,IPX5,50.0,True,,False,,,airwave
+Noise,Neckband,1499.0,3999.0,62.52,4.0,Standard,Airwave,2024.0,7.0,4.0,13.0,7258608140375.0,60.0,5.0,32.0,True,True,60.0,IPX5,40.0,True,Dual,False,4.7,200.0,airwave pro
+Noise,True Wireless Earbuds,4499.0,4499.0,0.0,4.0,Standard,Buds,2026.0,6.0,4.0,13.0,7668625211479.0,7.0,5.3,,False,True,35.0,IPX5,,True,,True,4.85,400.0,alt buds open
+Noise,True Wireless Earbuds,999.0,1899.0,47.39,4.0,Standard,Buds,2026.0,7.0,4.0,11.0,7688194490455.0,7.0,5.3,,False,True,45.0,IPX5,,True,Dual,True,,300.0,alt buds s
+Noise,True Wireless Earbuds,1599.0,2299.0,30.45,2.0,Standard,Buds,2026.0,7.0,2.0,11.0,7688206843991.0,6.0,5.3,35.0,True,True,45.0,IPX5,,True,,True,,300.0,alt buds
+Noise,True Wireless Earbuds,1499.0,4499.0,66.68,4.0,Standard,Air Clips,2026.0,5.0,4.0,11.0,7659291344983.0,6.0,5.3,,False,True,28.0,IPX5,,True,Dual,False,,350.0,alt clip
+Noise,True Wireless Earbuds,1499.0,4499.0,66.68,3.0,Standard,Buds,2023.0,11.0,3.0,12.0,6943313428567.0,8.0,5.1,,False,True,60.0,IPX5,50.0,True,Dual,True,,500.0,aura buds
+Noise,True Wireless Earbuds,1599.0,4499.0,64.46,3.0,Standard,Buds,2024.0,3.0,3.0,12.0,7024680665175.0,8.0,5.3,,False,True,60.0,IPX5,50.0,True,Dual,False,,400.0,aura buds
+Noise,True Wireless Earbuds,1299.0,3499.0,62.88,1.0,Standard,Beads,2021.0,12.0,1.0,6.0,6670430568535.0,4.0,5.1,25.0,True,False,4.0,IPX5,,False,,False,,300.0,beads
+Noise,Neckband,999.0,1999.0,50.03,2.0,Standard,Blaze,2024.0,2.0,2.0,10.0,7003598356567.0,20.0,5.3,,False,False,,,,True,,False,,,blaze
+Noise,Neckband,1099.0,2799.0,60.74,3.0,Standard,Bravo,2022.0,6.0,3.0,10.0,6765365592151.0,35.0,5.3,,False,False,,,,True,,False,,,bravo
+Noise,Neckband,999.0,2799.0,64.31,3.0,Standard,Bravo,2023.0,3.0,3.0,10.0,6868339556439.0,35.0,5.3,,False,False,,,,True,,False,,,bravo
+Noise,True Wireless Earbuds,1399.0,3499.0,60.02,3.0,Standard,Buds,2022.0,6.0,3.0,13.0,6765371228247.0,6.0,5.3,,False,False,24.0,IPX4,,True,,False,5.0,400.0,buds ace
+Noise,True Wireless Earbuds,999.0,2999.0,66.69,4.0,Standard,Buds,2023.0,7.0,4.0,13.0,6890164060247.0,7.0,5.1,,False,False,45.0,IPX5,50.0,True,,False,4.9,400.0,buds aero
+Noise,True Wireless Earbuds,2999.0,2999.0,0.0,3.0,Standard,Buds,2025.0,10.0,3.0,10.0,7492134469719.0,8.0,5.3,,False,True,50.0,IPX5,,True,Dual,False,,350.0,buds apex
+Noise,True Wireless Earbuds,1299.0,3999.0,67.52,3.0,Standard,Buds,2023.0,1.0,3.0,13.0,6850726625367.0,8.0,5.3,,False,True,45.0,IPX5,,True,,True,,500.0,buds combat
+Noise,True Wireless Earbuds,1599.0,3999.0,60.02,4.0,Standard,Buds,2024.0,1.0,4.0,10.0,6943327453271.0,7.0,5.3,,False,True,60.0,IPX5,40.0,True,,True,,500.0,buds combat x
+Noise,True Wireless Earbuds,1499.0,3999.0,62.52,3.0,Standard,Buds,2023.0,8.0,3.0,10.0,6901962113111.0,8.0,5.3,,False,True,50.0,IPX5,,True,,True,5.0,500.0,buds combat z
+Noise,True Wireless Earbuds,999.0,3999.0,75.02,3.0,Standard,Buds,2024.0,3.0,3.0,10.0,7024680730711.0,8.0,5.3,,False,True,50.0,IPX5,35.0,True,,True,,500.0,buds combat z
+Noise,True Wireless Earbuds,1499.0,3999.0,62.52,4.0,Standard,Buds,2024.0,11.0,4.0,10.0,7286400122967.0,8.0,5.3,,False,True,50.0,IPX5,40.0,True,Dual,False,,400.0,buds connect 2
+Noise,True Wireless Earbuds,1499.0,3999.0,62.52,4.0,Standard,Buds,2026.0,3.0,4.0,10.0,7612531638359.0,8.0,5.4,,False,True,50.0,,,True,Dual,True,,500.0,buds connect 3
+Noise,True Wireless Earbuds,1099.0,3999.0,72.52,3.0,Standard,Buds,2023.0,2.0,3.0,13.0,6854361022551.0,8.0,5.2,,False,True,50.0,IPX5,,True,,False,,400.0,buds connect
+Noise,True Wireless Earbuds,1399.0,3499.0,60.02,3.0,Standard,Buds,2025.0,12.0,3.0,10.0,7527351124055.0,8.0,5.3,,False,True,,IPX5,,True,,False,,300.0,buds e1
+Noise,True Wireless Earbuds,1599.0,3499.0,54.3,3.0,Standard,Buds,2025.0,9.0,3.0,10.0,7480745721943.0,6.0,5.3,,False,True,40.0,IPX4,,True,,False,,400.0,buds evoke
+Noise,True Wireless Earbuds,1399.0,3999.0,65.02,4.0,Standard,Buds,2023.0,10.0,4.0,13.0,6921268559959.0,8.0,5.3,,False,True,50.0,IPX5,,True,,False,,300.0,buds explore
+Noise,True Wireless Earbuds,1299.0,3499.0,62.88,4.0,Standard,Buds,2025.0,6.0,4.0,11.0,7428253745239.0,8.0,5.3,,False,True,50.0,,,True,,False,,400.0,buds f1
+Noise,True Wireless Earbuds,1999.0,3999.0,50.01,2.0,Standard,Buds,2025.0,6.0,2.0,13.0,7433168715863.0,8.0,5.3,32.0,True,True,35.0,IPX5,,True,Dual,True,4.71,500.0,buds marine
+Noise,True Wireless Earbuds,999.0,2999.0,66.69,4.0,Standard,Buds,2026.0,4.0,4.0,13.0,7618301362263.0,6.0,5.3,,False,False,,IPX4,,False,,False,,300.0,buds mini
+Noise,True Wireless Earbuds,1399.0,2999.0,53.35,4.0,Standard,Buds,2024.0,9.0,4.0,11.0,7283118702679.0,6.0,5.3,,False,True,60.0,IPX5,,True,,False,5.0,500.0,buds mvp102
+Noise,True Wireless Earbuds,1499.0,4999.0,70.01,4.0,Standard,Buds,2024.0,8.0,4.0,11.0,7268713365591.0,10.0,5.3,32.0,True,False,60.0,IPX5,40.0,True,,True,4.9,400.0,buds n1 pro
+Noise,True Wireless Earbuds,1199.0,3499.0,65.73,4.0,Standard,Buds,2024.0,2.0,4.0,11.0,6993971773527.0,6.0,5.1,,False,True,40.0,IPX5,40.0,True,,True,4.73,400.0,buds n1
+Noise,True Wireless Earbuds,1499.0,4999.0,70.01,5.0,Standard,Buds,2025.0,12.0,5.0,10.0,7527594590295.0,7.0,5.3,32.0,True,True,70.0,IPX5,,True,Dual,False,4.78,400.0,buds n2 pro
+Noise,True Wireless Earbuds,999.0,2999.0,66.69,5.0,Standard,Buds,2025.0,12.0,5.0,10.0,7538606407767.0,7.0,5.0,,False,True,50.0,IPX5,,False,,False,,400.0,buds neo
+Noise,True Wireless Earbuds,999.0,3499.0,71.45,5.0,Standard,Buds,2024.0,11.0,5.0,14.2,7286552658007.0,8.0,5.3,,False,True,45.0,IPX5,35.0,True,,False,,400.0,buds nero
+Noise,True Wireless Earbuds,1399.0,2999.0,53.35,5.0,Standard,Buds,2026.0,3.0,5.0,13.0,7594043375703.0,5.0,5.0,,False,False,40.0,IPX4,,True,,False,4.31,400.0,buds play
+Noise,True Wireless Earbuds,1399.0,2999.0,53.35,4.0,Standard,Buds,2024.0,5.0,4.0,11.0,7137775419479.0,8.0,5.1,,False,True,35.0,IPX5,,True,,False,,300.0,buds r1
+Noise,True Wireless Earbuds,1199.0,2999.0,60.02,5.0,Standard,Buds,2024.0,10.0,5.0,6.0,7286538502231.0,7.0,5.0,,False,True,45.0,IPX5,40.0,True,,True,4.0,500.0,buds trance 2
+Noise,True Wireless Earbuds,999.0,2499.0,60.02,5.0,Standard,Buds,2023.0,6.0,5.0,6.0,6885525258327.0,7.0,5.0,,False,True,45.0,IPX5,40.0,True,,True,,500.0,buds trance
+Noise,True Wireless Earbuds,999.0,2499.0,60.02,5.0,Standard,Buds,2024.0,3.0,5.0,6.0,7024680796247.0,45.0,5.3,,False,False,45.0,IPX5,40.0,True,,True,,400.0,buds trance
+Noise,True Wireless Earbuds,999.0,2999.0,66.69,4.0,Standard,Buds,2024.0,11.0,4.0,13.0,7286387769431.0,7.0,5.3,,False,True,40.0,IPX5,40.0,True,,False,5.0,500.0,buds trooper
+Noise,True Wireless Earbuds,1699.0,3499.0,51.44,3.0,Standard,Buds,2025.0,2.0,3.0,10.0,7372520423511.0,7.0,5.1,,False,True,40.0,IPX5,50.0,True,Dual,False,4.86,400.0,buds uno
+Noise,True Wireless Earbuds,1499.0,4499.0,66.68,3.0,Standard,Buds,2026.0,2.0,3.0,11.0,7587148103767.0,8.0,5.0,,False,False,40.0,IPX4,,True,,False,4.69,400.0,buds vector
+Noise,True Wireless Earbuds,1899.0,5499.0,65.47,4.0,Standard,Buds,2023.0,7.0,4.0,10.0,6894067286103.0,7.0,5.3,30.0,True,False,40.0,IPX5,45.0,True,,True,,400.0,buds venus
+Noise,True Wireless Earbuds,1499.0,3999.0,62.52,4.0,Standard,Buds,2024.0,9.0,4.0,13.0,7286351593559.0,8.0,5.0,,False,True,50.0,IPX5,,True,,False,,400.0,buds verve 2
+Noise,True Wireless Earbuds,1499.0,3999.0,62.52,3.0,Standard,Buds,2023.0,6.0,3.0,13.0,6882232991831.0,7.0,5.3,,False,True,45.0,IPX5,,True,,False,,400.0,buds verve
+Noise,True Wireless Earbuds,1099.0,3499.0,68.59,5.0,Standard,Buds,2024.0,6.0,5.0,11.0,7217415422039.0,8.0,5.3,,False,True,50.0,IPX5,50.0,True,,True,,300.0,buds vs102 elite
+Noise,True Wireless Earbuds,1099.0,3499.0,68.59,5.0,Standard,Buds,2023.0,8.0,5.0,11.0,6898771132503.0,3.5,5.3,,False,True,40.0,IPX5,,True,,False,4.0,300.0,buds vs102 neo
+Noise,True Wireless Earbuds,1499.0,3999.0,62.52,4.0,Standard,Buds,2022.0,8.0,4.0,11.0,6798806155351.0,7.0,5.3,,False,True,70.0,IPX5,,True,,False,4.58,400.0,buds vs102 plus
+Noise,True Wireless Earbuds,1499.0,4999.0,70.01,5.0,Standard,Buds,2023.0,1.0,5.0,11.0,6848588054615.0,7.0,5.3,25.0,True,True,70.0,IPX5,40.0,True,,True,4.79,400.0,buds vs102 pro
+Noise,True Wireless Earbuds,4999.0,4999.0,0.0,1.0,Standard,Buds,2025.0,11.0,1.0,11.0,7523643555927.0,7.0,5.3,25.0,True,True,70.0,IPX5,40.0,True,,True,,400.0,buds vs102 pro
+Noise,True Wireless Earbuds,1299.0,2999.0,56.69,4.0,Standard,Buds,2021.0,8.0,4.0,11.0,6586476363863.0,3.5,5.1,,False,True,16.0,IPX5,,False,,False,,400.0,buds vs102
+Noise,True Wireless Earbuds,1299.0,2999.0,56.69,4.0,Standard,Buds,2024.0,3.0,4.0,11.0,7024681189463.0,3.5,5.1,,False,False,50.0,IPX5,,False,,False,4.67,400.0,buds vs102
+Noise,True Wireless Earbuds,1999.0,5499.0,63.65,3.0,Standard,Buds,2023.0,6.0,3.0,10.0,6885114806359.0,8.0,5.3,25.0,True,False,40.0,IPX5,,True,,True,,400.0,buds vs103 pro
+Noise,True Wireless Earbuds,1099.0,2999.0,63.35,2.0,Standard,Buds,2021.0,12.0,2.0,10.0,6582220750935.0,4.5,5.3,,False,False,18.0,IPX5,,False,,False,,400.0,buds vs103
+Noise,True Wireless Earbuds,1499.0,4999.0,70.01,3.0,Standard,Buds,2023.0,7.0,3.0,13.0,6897030725719.0,5.0,5.3,25.0,True,True,45.0,IPX5,,True,,True,4.91,440.0,buds vs104 max
+Noise,True Wireless Earbuds,1599.0,4999.0,68.01,3.0,Standard,Buds,2023.0,4.0,3.0,14.2,6815548473431.0,5.0,5.3,,False,True,40.0,IPX5,,True,,False,4.63,300.0,buds vs104 pro
+Noise,True Wireless Earbuds,1099.0,3499.0,68.59,4.0,Standard,Buds,2023.0,7.0,4.0,13.0,6767047639127.0,6.0,5.2,,False,True,32.0,IPX5,,True,,True,4.56,300.0,buds vs104
+Noise,True Wireless Earbuds,1099.0,4499.0,75.57,3.0,Standard,Buds,2023.0,8.0,3.0,10.0,6899140624471.0,8.0,5.3,,False,True,50.0,IPX5,40.0,True,,True,4.5,380.0,buds vs106
+Noise,True Wireless Earbuds,999.0,2999.0,66.69,3.0,Standard,Buds,2021.0,7.0,3.0,6.0,6571010031703.0,6.0,5.1,,False,True,14.0,IPX5,,False,,False,4.71,300.0,buds vs201
+Noise,True Wireless Earbuds,1199.0,3499.0,65.73,4.0,Standard,Buds,2022.0,2.0,4.0,13.0,6691266363479.0,6.0,5.3,,False,False,24.0,IPX4,,True,,False,4.6,300.0,buds vs202
+Noise,True Wireless Earbuds,1599.0,3999.0,60.02,4.0,Standard,Buds,2022.0,9.0,4.0,10.0,6806792208471.0,6.0,5.3,,False,True,10.0,IPX4,,True,,False,4.88,400.0,buds vs204
+Noise,True Wireless Earbuds,1399.0,3499.0,60.02,2.0,Standard,Buds,2021.0,9.0,2.0,13.0,6597643468887.0,8.0,5.0,,False,False,24.0,IPX4,,False,,False,,400.0,buds vs303
+Noise,True Wireless Earbuds,1399.0,3499.0,60.02,4.0,Standard,Buds,2023.0,5.0,4.0,10.0,6883143843927.0,8.0,5.3,,False,True,50.0,IPX5,,True,,True,,400.0,buds vs401
+Noise,True Wireless Earbuds,1399.0,3999.0,65.02,2.0,Standard,Buds,2022.0,9.0,2.0,10.0,6792816590935.0,6.0,5.3,,False,True,50.0,IPX5,,True,,True,4.78,400.0,buds vs402
+Noise,True Wireless Earbuds,899.0,3499.0,74.31,3.0,Standard,Buds,2024.0,3.0,3.0,10.0,7024681254999.0,8.0,5.3,,False,True,50.0,IPX5,45.0,True,,True,,400.0,buds vs404
+Noise,Neckband,2999.0,2999.0,0.0,1.0,Standard,Buds,2025.0,11.0,1.0,10.0,7516149219415.0,8.0,5.3,,False,True,50.0,IPX5,40.0,True,Dual,False,,400.0,buds vs501
+Noise,True Wireless Earbuds,1099.0,3999.0,72.52,5.0,Standard,Buds,2025.0,4.0,5.0,10.0,7393724825687.0,8.0,5.3,,False,True,50.0,IPX5,,True,Dual,False,,400.0,buds vs601
+Noise,True Wireless Earbuds,1699.0,5499.0,69.1,2.0,Standard,Buds,2023.0,2.0,2.0,13.0,6859652628567.0,5.0,5.3,25.0,True,True,35.0,IPX4,,True,,False,4.72,400.0,buds x anc
+Noise,True Wireless Earbuds,1799.0,4499.0,60.01,3.0,Standard,Buds,2024.0,3.0,3.0,11.0,7024680566871.0,8.0,5.3,,False,True,120.0,IPX5,50.0,True,,False,4.91,400.0,buds x prime
+Noise,True Wireless Earbuds,1799.0,4499.0,60.01,4.0,Standard,Buds,2025.0,5.0,4.0,11.0,7393725251671.0,5.0,5.3,45.0,True,False,,IPX5,,True,Dual,True,4.58,400.0,buds x ultra
+Noise,True Wireless Earbuds,1599.0,4499.0,64.46,4.0,Standard,Buds,2025.0,5.0,4.0,10.0,7418627129431.0,8.0,5.3,32.0,True,True,140.0,IPX5,,True,Dual,False,4.85,300.0,buds x2
+Noise,True Wireless Earbuds,3999.0,6999.0,42.86,3.0,Standard,Buds,2024.0,1.0,3.0,12.4,6943326830679.0,6.0,5.3,50.0,True,False,50.0,,50.0,True,,False,4.87,460.0,buds xero
+Noise,Wired Earphones,499.0,999.0,50.05,2.0,Standard,Chord,,,2.0,10.0,7703219470423.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,,-1.0,chord 100 type c
+Noise,Wired Earphones,599.0,999.0,40.04,2.0,Standard,Chord,,,2.0,13.0,7703222190167.0,-1.0,-1.0,,False,False,-1.0,,0.0,False,Single,False,,-1.0,chord 200 type c
+Noise,Headphones,5499.0,5499.0,0.0,3.0,Standard,Clutch HP-P01,2026.0,8.0,3.0,50.0,7723641438295.0,20.0,6.0,,False,False,40.0,,24.0,False,,True,,,clutch hp p01
+Noise,Neckband,1999.0,3999.0,50.01,1.0,Standard,Combat,2022.0,1.0,1.0,10.0,6691268493399.0,25.0,5.3,,False,True,25.0,,45.0,True,,True,4.89,,combat
+Noise,Neckband,1599.0,3999.0,60.02,4.0,Standard,Flair,2024.0,7.0,4.0,10.0,6552459313239.0,35.0,5.0,,False,True,35.0,,,True,Dual,False,4.65,,flair touch
+Noise,Neckband,1599.0,3999.0,60.02,4.0,Standard,Flair,2022.0,6.0,4.0,10.0,6770639372375.0,80.0,5.0,,False,False,80.0,,,True,Dual,False,4.67,,flair xl
+Noise,True Wireless Earbuds,1199.0,2999.0,60.02,4.0,Standard,Buds,2026.0,4.0,4.0,13.0,7618632777815.0,8.0,5.3,,False,True,40.0,,,True,,False,,300.0,go buds
+Noise,Headphones,5999.0,5999.0,0.0,1.0,Standard,X KableOne,2024.0,8.0,1.0,40.0,7265969340503.0,15.0,5.3,,False,False,50.0,IPX5,45.0,False,Dual,False,,,kableone
+Noise,True Wireless Earbuds,1299.0,9999.0,87.01,3.0,Standard,Buds,2026.0,3.0,3.0,10.0,7587189391447.0,6.0,5.4,51.0,True,True,30.0,IPX5,,True,Dual,False,,300.0,master buds 2
+Noise,Headphone,1399.0,11999.0,88.34,3.0,Standard,Buds,2025.0,10.0,3.0,40.0,7475335757911.0,30.0,5.4,40.0,True,True,60.0,IPX4,,True,Dual,False,4.82,,master buds max
+Noise,True Wireless Earbuds,5999.0,7999.0,25.0,5.0,Standard,Buds,2025.0,1.0,5.0,12.4,7364277764183.0,6.0,5.3,49.0,True,False,,IPX5,,True,Dual,False,,300.0,master buds
+Noise,True Wireless Earbuds,5999.0,7999.0,25.0,1.0,Special,Buds,2025.0,12.0,1.0,12.4,7535021850711.0,6.0,5.3,49.0,True,False,,IPX5,,False,Dual,False,,300.0,master buds
+Noise,Neckband,999.0,2499.0,60.02,4.0,Standard,Nerve,2021.0,10.0,4.0,10.0,6599593263191.0,25.0,5.0,,False,False,25.0,IPX5,,True,Dual,False,,,nerve
+Noise,Neckband,1199.0,2799.0,57.16,3.0,Standard,Nerve,2022.0,7.0,3.0,10.0,6772259029079.0,30.0,5.0,,False,False,35.0,,,True,Dual,False,,,nerve pro
+Noise,True Wireless Earbuds,1099.0,3499.0,68.59,4.0,Standard,Buds,2024.0,4.0,4.0,10.0,7110172115031.0,8.0,5.3,,False,True,50.0,IPX5,,False,,False,,,pop buds
+Noise,Headphones,1699.0,3999.0,57.51,1.0,Standard,Powr,2025.0,2.0,1.0,40.0,6662120603735.0,25.0,5.0,,False,False,8.0,,,True,Dual,False,,,powr
+Noise,True Wireless Earbuds,3499.0,4999.0,30.01,2.0,Standard,Pure Pods,2026.0,5.0,2.0,14.2,7636829044823.0,20.0,5.4,,False,True,80.0,IPX5,,True,Dual,False,,,pure pods 2
+Noise,True Wireless Earbuds,1999.0,6999.0,71.44,2.0,Standard,Pure Pods,2023.0,12.0,2.0,16.0,6943328239703.0,20.0,5.0,,False,True,80.0,IPX4,,True,,False,4.84,,pure pods
+Noise,Neckband,999.0,2499.0,60.02,2.0,Standard,Sense,2024.0,2.0,2.0,10.0,6628658774103.0,20.0,5.0,,False,False,25.0,IPX5,,True,Dual,False,,,sense
+Noise,Neckband,1299.0,2999.0,56.69,4.0,Standard,Tune,2024.0,2.0,4.0,10.0,6763905253463.0,50.0,5.0,,False,False,60.0,,,True,,False,,,tune active pro
+Noise,Neckband,1099.0,2499.0,56.02,4.0,Standard,Tune,2022.0,8.0,4.0,10.0,4663811014743.0,6.0,5.0,,False,False,10.0,IPX4,,False,,False,,,tune elite sport
+Noise,Neckband,999.0,1999.0,50.03,1.0,Standard,Tune,2024.0,2.0,1.0,,7001436487767.0,10.0,5.0,,False,False,,,,True,,False,,,tune lite
+Noise,Neckband,699.0,1999.0,65.03,4.0,Standard,Tune,2022.0,8.0,4.0,10.0,4663803609175.0,50.0,5.0,,False,False,6.0,IPX4,,True,,False,,,tune sport 2
+Noise,Headphones,1799.0,4999.0,64.01,3.0,Standard,TWO,2023.0,6.0,3.0,40.0,6889278472279.0,25.0,5.3,,False,False,50.0,IPX5,40.0,True,Dual,False,4.71,,two
+Noise,True Wireless Earbuds,2499.0,6999.0,64.29,4.0,Standard,Buds,2025.0,6.0,4.0,10.0,7286375415895.0,8.0,5.3,,True,True,15.0,,,False,,False,4.6,,view buds
+Noise,Neckband,1499.0,3999.0,62.52,1.0,Standard,Xtreme,2024.0,2.0,1.0,10.0,6792838774871.0,100.0,5.0,,False,False,100.0,IPX5,,True,Dual,True,,,xtreme
+boAt,Neckband,2099.0,2490.0,15.7,4.0,Standard,Rockerz,2022.0,6.0,4.0,10.0,6719191580770.0,15.0,5.3,,False,True,20.0,IPX4,40.0,True,,False,4.9,150.0,rockerz 103 pro
+boAt,Neckband,1199.0,3490.0,65.64,3.0,Standard,Rockerz,2023.0,10.0,3.0,10.0,6914643984482.0,30.0,5.2,,False,True,30.0,IPX5,60.0,True,Dual,True,4.8,180.0,rockerz 103 v2 pro
+boAt,Neckband,1399.0,2490.0,43.82,3.0,Standard,Rockerz,2023.0,8.0,3.0,10.0,6890894557282.0,40.0,5.3,,False,True,40.0,IPX5,40.0,True,,True,4.7,210.0,rockerz 109
+boAt,Neckband,1499.0,2490.0,39.8,3.0,Standard,Rockerz,2023.0,11.0,3.0,10.0,6921151905890.0,40.0,5.3,,False,True,10.0,,,True,Dual,True,4.8,210.0,rockerz 110
+boAt,Neckband,1299.0,2490.0,47.83,3.0,Standard,Rockerz,2023.0,9.0,3.0,10.0,6897925390434.0,40.0,5.3,,False,True,40.0,,,True,Dual,False,4.7,210.0,rockerz 111
+boAt,Neckband,1499.0,2490.0,39.8,2.0,Standard,Rockerz,2025.0,5.0,2.0,10.0,7353012682850.0,40.0,5.3,,False,True,40.0,,,True,Dual,True,,,rockerz 112
+boAt,Neckband,999.0,3990.0,74.96,2.0,Standard,Rockerz,2024.0,9.0,2.0,10.0,7226088816738.0,50.0,5.2,,False,True,150.0,IPX5,65.0,True,Dual,True,4.3,440.0,rockerz 150 pro
+boAt,Neckband,1099.0,1990.0,44.77,2.0,Standard,Rockerz,2022.0,4.0,2.0,10.0,4478053089378.0,15.0,5.0,,False,False,15.0,IPX4,,False,Dual,False,4.9,110.0,rockerz 185
+boAt,Neckband,1199.0,2490.0,51.85,3.0,Standard,Rockerz,2023.0,5.0,3.0,10.0,6860310544482.0,20.0,5.3,,False,True,20.0,IPX4,40.0,True,Dual,True,5.0,150.0,rockerz 185 pro
+boAt,Neckband,1099.0,1990.0,44.77,2.0,Standard,Rockerz,2022.0,7.0,2.0,10.0,4482475458658.0,15.0,5.0,,False,False,15.0,IPX4,,True,Dual,False,4.8,110.0,rockerz 195
+boAt,Neckband,1429.0,3490.0,59.05,3.0,Standard,Rockerz,2023.0,10.0,3.0,10.0,6910265032802.0,30.0,5.2,,False,True,30.0,IPX5,60.0,True,Dual,True,4.9,180.0,rockerz 195v2 pro
+boAt,Neckband,1799.0,2790.0,35.52,2.0,Standard,Rockerz,2025.0,6.0,2.0,10.0,7371649646690.0,20.0,5.3,,False,True,10.0,,60.0,True,Dual,True,,,rockerz 202
+boAt,Neckband,1799.0,5990.0,69.97,4.0,Standard,Rockerz,2024.0,9.0,4.0,15.0,7232450297954.0,40.0,5.3,30.0,True,True,,,60.0,True,,False,4.7,270.0,rockerz 210 anc
+boAt,Neckband,1199.0,2490.0,51.85,2.0,Standard,Rockerz,2022.0,8.0,2.0,10.0,4533353218146.0,8.0,5.0,,False,False,8.0,IPX4,,False,Single,False,,110.0,rockerz 215
+boAt,Neckband,999.0,1990.0,49.8,3.0,Standard,Rockerz,2022.0,3.0,3.0,10.0,6680425988194.0,20.0,5.2,,False,True,20.0,IPX5,,True,Dual,True,4.9,150.0,rockerz 235 pro
+boAt,Neckband,1599.0,2990.0,46.52,5.0,Standard,Rockerz,2022.0,9.0,5.0,10.0,4360477016162.0,8.0,5.0,,False,False,8.0,IPX5,,True,,False,,110.0,rockerz 235 v2
+boAt,Neckband,1199.0,2990.0,59.9,1.0,Standard,Rockerz,2021.0,8.0,1.0,10.0,6583125737570.0,8.0,5.0,,False,False,8.0,IPX5,,True,,False,,110.0,rockerz 235v2
+boAt,Neckband,1299.0,2990.0,56.56,4.0,Standard,Rockerz,2022.0,7.0,4.0,10.0,4494693892194.0,8.0,5.0,,False,False,8.0,IPX5,,True,,False,,110.0,rockerz 238
+boAt,Neckband,1599.0,2499.0,36.01,4.0,Standard,Rockerz,2022.0,9.0,4.0,10.0,6777658540130.0,20.0,5.3,,False,True,10.0,IPX4,400.0,True,Dual,True,,100.0,rockerz 245 pro
+boAt,Neckband,999.0,2990.0,66.59,5.0,Standard,Rockerz,2020.0,9.0,5.0,12.0,4340969504866.0,8.0,5.0,,False,False,8.0,IPX5,,True,Dual,False,,110.0,rockerz 245 v2
+boAt,Neckband,1599.0,3490.0,54.18,3.0,Standard,Rockerz,2023.0,8.0,3.0,10.0,6894403190882.0,30.0,5.2,,False,True,30.0,IPX5,60.0,True,Dual,True,,180.0,rockerz 245 v2 pro
+boAt,Neckband,999.0,2990.0,66.59,5.0,Standard,Rockerz,2019.0,10.0,5.0,10.0,2162816352354.0,6.0,5.0,,False,False,6.0,IPX5,60.0,False,Dual,False,4.8,110.0,rockerz 255
+boAt,Neckband,2099.0,6990.0,69.97,3.0,Standard,Rockerz,2024.0,2.0,3.0,18.0,6984165654626.0,100.0,5.3,32.0,True,True,100.0,IPX4,,True,Dual,True,5.0,360.0,rockerz 255 anc
+boAt,Neckband,1599.0,2499.0,36.01,3.0,Standard,Rockerz,2022.0,12.0,3.0,10.0,6818882781282.0,30.0,5.2,,False,True,30.0,IPX4,60.0,True,Dual,True,,220.0,rockerz 255 arc
+boAt,Neckband,1099.0,2990.0,63.24,1.0,Sports,Rockerz,2020.0,9.0,1.0,10.0,4493970571362.0,6.0,4.1,,False,False,6.0,IPX5,,False,,False,,110.0,rockerz 255
+boAt,Neckband,1299.0,3999.0,67.52,3.0,Standard,Rockerz,2023.0,2.0,3.0,10.0,6845854711906.0,60.0,5.3,,False,True,60.0,IPX5,60.0,True,Dual,True,4.2,260.0,rockerz 255 max
+boAt,Neckband,2499.0,3499.0,28.58,5.0,Standard,Rockerz,2020.0,2.0,5.0,10.0,4360485437538.0,8.0,5.0,,False,False,4.0,IPX5,,True,,False,4.8,110.0,rockerz 255 pro
+boAt,Neckband,1399.0,2990.0,53.21,3.0,Standard,Rockerz,2023.0,5.0,3.0,10.0,6872037392482.0,30.0,5.3,,False,True,30.0,IPX5,40.0,True,,True,,200.0,rockerz 255 touch
+boAt,Neckband,1299.0,4990.0,73.97,3.0,Standard,Rockerz,2024.0,7.0,3.0,10.0,7196589621346.0,50.0,5.3,,False,True,50.0,,65.0,True,Dual,True,,220.0,rockerz 255 z plus
+boAt,Neckband,999.0,2990.0,66.59,4.0,Standard,Rockerz,2020.0,7.0,4.0,10.0,4463679963234.0,6.0,4.1,,False,False,6.0,IPX5,,False,,False,,110.0,rockerz 255f
+boAt,Neckband,869.0,2990.0,70.94,4.0,Standard,Rockerz,2022.0,10.0,4.0,10.0,4339212124258.0,6.0,4.1,,False,False,6.0,IPX5,,False,,False,,110.0,rockerz 255r
+boAt,Neckband,1699.0,2990.0,43.18,4.0,Standard,Rockerz,2022.0,7.0,4.0,10.0,4494709686370.0,6.0,5.0,,False,False,1.0,IPX5,,True,,False,5.0,120.0,rockerz 258 pro
+boAt,Neckband,1199.0,2490.0,51.85,3.0,Standard,Rockerz,2021.0,12.0,3.0,10.0,6630782042210.0,25.0,5.2,,False,True,25.0,IPX4,55.0,True,Dual,True,,180.0,rockerz 260
+boAt,Neckband,999.0,4990.0,79.98,2.0,Standard,Rockerz,2019.0,12.0,2.0,11.0,2219059478626.0,8.0,4.1,,False,False,8.0,IPX7,,False,,False,4.8,100.0,rockerz 261
+boAt,Neckband,1199.0,5999.0,80.01,2.0,Standard,Rockerz,2024.0,7.0,2.0,14.8,7199320047714.0,15.0,5.3,,False,True,15.0,,,True,,False,,120.0,rockerz 261 pro
+boAt,Neckband,1199.0,2990.0,59.9,3.0,Standard,Rockerz,2022.0,8.0,3.0,10.0,4510747426914.0,10.0,5.0,,False,False,10.0,IPX5,,False,,False,,200.0,rockerz 265 v2
+boAt,Neckband,1899.0,2990.0,36.49,4.0,Standard,Rockerz,2022.0,8.0,4.0,10.0,4348001648738.0,8.0,5.0,,False,False,5.0,IPX5,,True,,False,,150.0,rockerz 275 v2
+boAt,Neckband,1499.0,2990.0,49.87,6.0,Standard,Rockerz,2022.0,12.0,6.0,10.0,6556130738274.0,30.0,5.0,,False,False,30.0,IPX5,,True,,False,,150.0,rockerz 330
+boAt,Neckband,1694.0,5999.0,71.76,3.0,Standard,Rockerz,2022.0,7.0,3.0,13.0,6732952895586.0,24.0,5.3,30.0,True,True,24.0,IPX4,,True,,False,,220.0,rockerz 330 anc
+boAt,Neckband,999.0,2490.0,59.88,4.0,Standard,Rockerz,2026.0,1.0,4.0,10.0,6575561310306.0,30.0,5.2,,False,False,30.0,IPX5,,True,Dual,False,,150.0,rockerz 333
+boAt,Neckband,1599.0,5999.0,73.35,3.0,Standard,Rockerz,2022.0,7.0,3.0,13.0,6732926091362.0,24.0,5.3,25.0,True,True,20.0,IPX4,,True,,False,,220.0,rockerz 333 anc
+boAt,Neckband,1199.0,2990.0,59.9,6.0,Standard,Rockerz,2021.0,12.0,6.0,10.0,6628146348130.0,60.0,5.2,,False,True,60.0,IPX5,,True,,False,,150.0,rockerz 333 pro
+boAt,Neckband,1399.0,3990.0,64.94,5.0,Standard,Rockerz,2023.0,3.0,5.0,10.0,4493520928866.0,20.0,5.0,,False,False,10.0,IPX5,,True,,False,,150.0,rockerz 335
+boAt,Neckband,1799.0,3990.0,54.91,5.0,Standard,Rockerz,2022.0,7.0,5.0,10.0,6748411625570.0,30.0,5.0,,False,True,30.0,IPX5,,True,Dual,False,,150.0,rockerz 338
+boAt,Headphones,1199.0,2499.0,52.02,3.0,Standard,Rockerz,2020.0,3.0,3.0,40.0,4369339154530.0,8.0,5.0,,False,False,8.0,,,False,,False,4.8,300.0,rockerz 370
+boAt,Neckband,999.0,3990.0,74.96,4.0,Standard,Rockerz,2021.0,9.0,4.0,10.0,6578196775010.0,20.0,5.1,,False,False,20.0,,65.0,False,,True,,200.0,rockerz 375
+boAt,Neckband,2099.0,4990.0,57.94,1.0,Standard,Rockerz,2022.0,9.0,1.0,10.0,4510745296994.0,40.0,5.0,,False,False,40.0,IPX6,,True,,False,,300.0,rockerz 385 v2
+boAt,Headphones,1199.0,2990.0,59.9,1.0,Standard,Rockerz,2022.0,9.0,1.0,40.0,4353784873058.0,12.0,4.2,,False,False,12.0,,,False,,False,,300.0,rockerz 390 v2
+boAt,Headphones,1399.0,2990.0,53.21,4.0,Standard,Rockerz,2020.0,2.0,4.0,40.0,2220750307426.0,8.0,5.0,,False,False,8.0,,,False,,False,4.8,300.0,rockerz 400
+boAt,Headphones,1499.0,2499.0,40.02,3.0,Standard,Rockerz,2024.0,7.0,3.0,40.0,7204662214754.0,30.0,5.3,,False,False,30.0,,,True,,True,,,rockerz 400 pro
+boAt,Headphones,1499.0,2990.0,49.87,4.0,Standard,Rockerz,2022.0,10.0,4.0,40.0,4335226191970.0,8.0,5.0,,False,False,8.0,,,False,,False,,300.0,rockerz 410
+boAt,Headphone,1499.0,2999.0,50.02,2.0,Standard,Rockerz,2025.0,7.0,2.0,40.0,7387359805538.0,40.0,5.4,,False,True,40.0,IPX4,40.0,True,,True,,430.0,rockerz 411
+boAt,Headphones,1699.0,2990.0,43.18,7.0,Standard,Rockerz,2022.0,2.0,7.0,40.0,6660284252258.0,25.0,5.2,,False,True,25.0,IPX5,50.0,True,Dual,True,,500.0,rockerz 425
+boAt,Headphones,1099.0,2490.0,55.86,4.0,Standard,Rockerz,2025.0,12.0,4.0,40.0,7247744139362.0,40.0,5.4,,False,True,40.0,,40.0,True,,True,,300.0,rockerz 430
+boAt,Headphones,1699.0,3990.0,57.42,3.0,Standard,Rockerz,2023.0,8.0,3.0,40.0,2222936031330.0,15.0,4.2,,False,False,15.0,,,False,,False,,300.0,rockerz 450
+boAt,Headphones,1799.0,3990.0,54.91,1.0,Franchise,Rockerz,2022.0,6.0,1.0,40.0,6723125477474.0,15.0,4.2,,False,False,15.0,,,False,,False,,300.0,rockerz 450
+boAt,Headphones,999.0,3990.0,74.96,3.0,Franchise,Rockerz,2022.0,6.0,3.0,40.0,6723042836578.0,15.0,4.2,,False,False,15.0,,,False,,False,,300.0,rockerz 450
+boAt,Headphones,1799.0,3990.0,54.91,1.0,Standard,Rockerz,2021.0,12.0,1.0,40.0,6632406810722.0,15.0,5.3,,False,False,15.0,,,False,Dual,False,,300.0,rockerz 450
+boAt,Headphones,1799.0,3990.0,54.91,4.0,Standard,Rockerz,2025.0,4.0,4.0,40.0,6542542405730.0,70.0,5.0,,False,False,70.0,IPX7,,True,,False,,750.0,rockerz 450 pro
+boAt,Headphones,999.0,3990.0,74.96,1.0,Franchise,Rockerz,2022.0,6.0,1.0,40.0,6723125444706.0,15.0,4.2,,False,False,15.0,,,False,,False,,300.0,rockerz 450
+boAt,Headphones,999.0,3990.0,74.96,1.0,Franchise,Rockerz,2022.0,6.0,1.0,40.0,6723126034530.0,15.0,4.2,,False,False,15.0,,,False,,False,,300.0,rockerz 450
+boAt,Headphones,1599.0,3990.0,59.92,3.0,Standard,Rockerz,2022.0,7.0,3.0,40.0,6748412936290.0,15.0,4.2,,False,False,15.0,,,False,,False,,300.0,rockerz 450r
+boAt,Headphones,1799.0,3790.0,52.53,2.0,Standard,Rockerz,2024.0,12.0,2.0,40.0,7247731392610.0,8.0,5.3,,False,False,,,40.0,True,,True,,400.0,rockerz 480
+boAt,Headphones,1599.0,3990.0,59.92,4.0,Standard,Rockerz,2019.0,10.0,4.0,50.0,2162924290146.0,20.0,4.1,,False,False,20.0,,,False,,False,,400.0,rockerz 510
+boAt,Headphones,1599.0,3990.0,59.92,4.0,Standard,Rockerz,2022.0,6.0,4.0,50.0,4339216646242.0,20.0,4.1,,False,False,20.0,,,False,,False,,400.0,rockerz 518
+boAt,Headphones,1599.0,4999.0,68.01,5.0,Standard,Rockerz,2020.0,8.0,5.0,50.0,4369358422114.0,20.0,5.0,,False,False,20.0,IPX5,,False,,False,,500.0,rockerz 550
+boAt,Headphones,3099.0,7990.0,61.21,2.0,Standard,Rockerz,2026.0,1.0,2.0,40.0,6860952666210.0,50.0,5.3,35.0,True,True,100.0,,,True,,False,,500.0,rockerz 551 anc
+boAt,Headphones,3799.0,8990.0,57.74,3.0,Standard,Rockerz,2025.0,1.0,3.0,40.0,7289568624738.0,72.0,5.4,42.0,True,True,72.0,IPX5,65.0,True,,False,,500.0,rockerz 551 anc pro
+boAt,Headphones,2099.0,4999.0,58.01,3.0,Collaboration,Rockerz,2022.0,9.0,3.0,50.0,6772831256674.0,20.0,5.0,,False,False,20.0,IPX5,,False,,False,,500.0,rockerz 558
+boAt,Headphones,1599.0,4999.0,68.01,5.0,Standard,Rockerz,2021.0,8.0,5.0,50.0,6586550681698.0,20.0,5.0,,False,False,20.0,IPX5,,False,,False,,500.0,rockerz 558
+boAt,Headphones,1999.0,3990.0,49.9,2.0,Standard,Rockerz,2022.0,6.0,2.0,40.0,4377075155042.0,15.0,5.0,,False,False,15.0,,,False,,False,,400.0,rockerz 560
+boAt,Headphones,1299.0,3990.0,67.44,2.0,Standard,Rockerz,2019.0,9.0,2.0,40.0,2162862293090.0,8.0,4.1,,False,False,8.0,,,False,,False,,300.0,rockerz 600
+boAt,Headphones,2499.0,4990.0,49.92,1.0,Sports,Rockerz,2020.0,8.0,1.0,40.0,4485817729122.0,8.0,4.1,,False,False,8.0,,,False,,False,,300.0,rockerz 600
+boAt,Headphones,1999.0,3990.0,49.9,2.0,Standard,Rockerz,2022.0,10.0,2.0,40.0,4339228278882.0,8.0,4.1,,False,False,8.0,,,False,,False,,300.0,rockerz 610
+boAt,Headphones,3099.0,8990.0,65.53,4.0,Standard,Rockerz,2025.0,3.0,4.0,40.0,7308365594722.0,80.0,5.3,,False,False,80.0,IPX4,60.0,True,Dual,False,,500.0,rockerz 650 pro
+boAt,Headphones,1999.0,3990.0,49.9,3.0,Standard,Rockerz,2021.0,6.0,3.0,40.0,4538629226594.0,60.0,5.3,,False,False,60.0,IPX4,,True,Dual,False,,1000.0,rockerz 650
+boAt,Headphones,1899.0,3990.0,52.41,3.0,Standard,Rockerz,2021.0,11.0,3.0,40.0,6596289855586.0,60.0,5.0,,False,False,8.0,IPX5,,True,Dual,False,,1000.0,rockerz 660
+boAt,Neckband,1599.0,3990.0,59.92,3.0,Standard,Rockerz,2023.0,8.0,3.0,10.0,6892803850338.0,80.0,5.3,,False,True,80.0,IPX4,60.0,True,Dual,True,,440.0,rockerz 80 pro
+boAt,Neckband,1399.0,3990.0,64.94,3.0,Standard,Rockerz,2023.0,7.0,3.0,10.0,6884761534562.0,30.0,5.3,,False,True,30.0,IPX4,40.0,True,,True,,220.0,rockerz bliss
+boAt,Neckband,899.0,3490.0,74.24,2.0,Standard,Rockerz,2026.0,2.0,2.0,10.0,7501690404962.0,30.0,5.3,,False,False,30.0,IPX5,60.0,False,,True,,200.0,rockerz bold
+boAt,Neckband,1199.0,2990.0,59.9,3.0,Standard,Rockerz,2023.0,5.0,3.0,10.0,6868192854114.0,30.0,5.2,,False,True,30.0,IPX4,60.0,True,Dual,True,,220.0,rockerz enticer
+boAt,Headphones,3299.0,7990.0,58.71,3.0,Standard,Rockerz,2025.0,12.0,3.0,50.0,7455958171746.0,80.0,5.4,40.0,True,True,80.0,IPX4,40.0,False,,True,,800.0,rockerz plus 550 anc
+boAt,Neckband,1199.0,2990.0,59.9,2.0,Standard,Rockerz,2025.0,8.0,2.0,10.0,7401383166050.0,50.0,5.3,,False,True,50.0,IPX4,65.0,True,,True,,,rockerz prime 255z
+boAt,Headphones,2499.0,2999.0,16.67,3.0,Standard,Rockerz,2026.0,2.0,3.0,40.0,7514161315938.0,50.0,5.3,,False,True,50.0,IPX5,60.0,False,,True,,400.0,rockerz trendz
+boAt,Neckband,1499.0,3290.0,54.44,2.0,Standard,Rockerz,2025.0,8.0,2.0,10.0,7401471639650.0,150.0,5.3,,False,True,150.0,,65.0,False,Dual,True,,,rockerz trinity gen 2
+boAt,Neckband,1499.0,3990.0,62.43,3.0,Standard,Rockerz,2023.0,2.0,3.0,10.0,6844038119522.0,50.0,5.3,,False,True,150.0,IPX5,65.0,True,Dual,True,,440.0,rockerz trinity
+boAt,Headphones,1499.0,2499.0,40.02,2.0,Standard,Rockid Rush,2023.0,8.0,2.0,30.0,6893171310690.0,10.0,5.3,,False,False,10.0,,,False,,False,,300.0,rockid rush kids
+Noise,True Wireless Earbuds,1099.0,2999.0,63.35,4.0,Standard,Buds,2026.0,8.0,4.0,11.0,7725749764183.0,3.5,5.1,,False,True,16.0,IPX5,,True,,False,,400.0,vs 102
